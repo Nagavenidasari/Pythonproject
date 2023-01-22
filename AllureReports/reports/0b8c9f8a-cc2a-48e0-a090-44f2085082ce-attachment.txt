@@ -1,0 +1,3 @@
+Launching Chrome Browser .......
+Number of Rows: 1
+Email Id in the table:  victoria_victoria@nopCommerce.com

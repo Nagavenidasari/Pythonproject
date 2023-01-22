@@ -1,0 +1,11 @@
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome 107.0.5304
+[32mINFO    [0m WDM:logger.py:11 Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+[32mINFO    [0m root:test_login_ddt.py:20 **********Test_002_Login_DDT************
+[32mINFO    [0m root:test_login_ddt.py:21 ***************Login test**************
+[32mINFO    [0m root:test_login_ddt.py:40 *************Login Passed ***************
+[32mINFO    [0m root:test_login_ddt.py:53 ******Login Passed********
+[32mINFO    [0m root:test_login_ddt.py:53 ******Login Passed********
+[32mINFO    [0m root:test_login_ddt.py:53 ******Login Passed********
+[32mINFO    [0m root:test_login_ddt.py:57 Login DDT test Passed...................
+[32mINFO    [0m root:test_login_ddt.py:65 ****DDT is finished***********

@@ -1,0 +1,1663 @@
+2022-10-31 13:13:15,587 - WDM - INFO - ====== WebDriver manager ======
+2022-10-31 13:13:16,133 - WDM - INFO - Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-10-31 13:13:16,750 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+2022-10-31 13:13:17,992 - root - INFO - **********Test_001_Login************
+2022-10-31 13:13:17,992 - root - INFO - ***************Verifying HomePage Title**************
+2022-10-31 13:13:19,109 - root - INFO - *************Verify Homepage Passed ***************
+2022-10-31 13:13:19,111 - WDM - INFO - ====== WebDriver manager ======
+2022-10-31 13:13:19,787 - WDM - INFO - Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-10-31 13:13:20,419 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+2022-10-31 13:13:21,663 - root - INFO - **********Test_001_Login************
+2022-10-31 13:13:21,664 - root - INFO - ***************Login test**************
+2022-10-31 13:13:24,016 - root - INFO - *************Login Passed ***************
+2022-10-31 13:14:01,296 - WDM - INFO - ====== WebDriver manager ======
+2022-10-31 13:14:01,853 - WDM - INFO - Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-10-31 13:14:02,463 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+2022-10-31 13:14:03,654 - root - INFO - **********Test_001_Login************
+2022-10-31 13:14:03,655 - root - INFO - ***************Verifying HomePage Title**************
+2022-10-31 13:14:04,837 - root - ERROR - ###############Verify Homepage Failed #####################
+2022-10-31 13:14:04,970 - WDM - INFO - ====== WebDriver manager ======
+2022-10-31 13:14:06,082 - WDM - INFO - Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-10-31 13:14:06,741 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+2022-10-31 13:14:07,934 - root - INFO - **********Test_001_Login************
+2022-10-31 13:14:07,934 - root - INFO - ***************Login test**************
+2022-10-31 13:14:10,179 - root - INFO - *************Login Passed ***************
+2022-10-31 13:42:36,861 - WDM - INFO - ====== WebDriver manager ======
+2022-10-31 13:42:38,212 - WDM - INFO - Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-10-31 13:42:38,939 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+2022-10-31 13:42:40,352 - root - INFO - **********Test_001_Login************
+2022-10-31 13:42:40,352 - root - INFO - ***************Verifying HomePage Title**************
+2022-10-31 13:42:41,992 - root - INFO - *************Verify Homepage Passed ***************
+2022-10-31 13:42:41,997 - WDM - INFO - ====== WebDriver manager ======
+2022-10-31 13:42:42,851 - WDM - INFO - Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-10-31 13:42:43,699 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+2022-10-31 13:42:44,972 - root - INFO - **********Test_001_Login************
+2022-10-31 13:42:44,972 - root - INFO - ***************Login test**************
+2022-10-31 13:42:48,057 - root - INFO - *************Login Passed ***************
+2022-10-31 13:43:20,162 - root - INFO - **********Test_001_Login************
+2022-10-31 13:43:20,162 - root - INFO - ***************Verifying HomePage Title**************
+2022-10-31 13:43:22,052 - root - INFO - *************Verify Homepage Passed ***************
+2022-10-31 13:43:27,498 - root - INFO - **********Test_001_Login************
+2022-10-31 13:43:27,498 - root - INFO - ***************Login test**************
+2022-10-31 13:43:29,769 - root - INFO - *************Login Passed ***************
+2022-10-31 13:50:29,377 - root - INFO - **********Test_001_Login************
+2022-10-31 13:50:29,378 - root - INFO - ***************Verifying HomePage Title**************
+2022-10-31 13:50:30,688 - root - INFO - *************Verify Homepage Passed ***************
+2022-10-31 13:50:33,942 - root - INFO - **********Test_001_Login************
+2022-10-31 13:50:33,942 - root - INFO - ***************Login test**************
+2022-10-31 13:50:57,773 - root - INFO - *************Login Passed ***************
+2022-10-31 14:11:39,702 - WDM - INFO - xdist worker is: gw0
+2022-10-31 14:11:39,703 - WDM - INFO - ====== WebDriver manager ======
+2022-10-31 14:11:39,703 - WDM - INFO - ====== WebDriver manager ======
+2022-10-31 14:11:40,250 - WDM - INFO - Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-10-31 14:11:40,250 - WDM - INFO - Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-10-31 14:11:40,886 - WDM - INFO - There is no [win32] chromedriver for browser 106.0.5249 in cache
+2022-10-31 14:11:40,886 - WDM - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/106.0.5249.61/chromedriver_win32.zip
+2022-10-31 14:11:40,887 - WDM - INFO - There is no [win32] chromedriver for browser 106.0.5249 in cache
+2022-10-31 14:11:40,887 - WDM - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/106.0.5249.61/chromedriver_win32.zip
+2022-10-31 14:11:42,750 - WDM - INFO - Driver has been saved in cache [C:\Users\nagav\.wdm\gw1\drivers\chromedriver\win32\106.0.5249]
+2022-10-31 14:11:42,934 - WDM - INFO - Driver has been saved in cache [C:\Users\nagav\.wdm\gw0\drivers\chromedriver\win32\106.0.5249]
+2022-10-31 14:11:44,811 - root - INFO - **********Test_001_Login************
+2022-10-31 14:11:44,812 - root - INFO - ***************Login test**************
+2022-10-31 14:11:44,992 - root - INFO - **********Test_001_Login************
+2022-10-31 14:11:44,993 - root - INFO - ***************Verifying HomePage Title**************
+2022-10-31 14:11:46,662 - root - INFO - *************Verify Homepage Passed ***************
+2022-10-31 14:11:48,139 - root - INFO - *************Login Passed ***************
+2022-10-31 14:26:02,820 - WDM - INFO - ====== WebDriver manager ======
+2022-10-31 14:26:03,368 - WDM - INFO - Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-10-31 14:26:03,989 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+2022-10-31 14:26:05,291 - root - INFO - **********Test_001_Login************
+2022-10-31 14:26:05,291 - root - INFO - ***************Verifying HomePage Title**************
+2022-10-31 14:26:06,334 - root - INFO - *************Verify Homepage Passed ***************
+2022-10-31 14:26:06,344 - WDM - INFO - ====== WebDriver manager ======
+2022-10-31 14:26:07,196 - WDM - INFO - Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-10-31 14:26:07,818 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+2022-10-31 14:26:09,015 - root - INFO - **********Test_001_Login************
+2022-10-31 14:26:09,015 - root - INFO - ***************Login test**************
+2022-10-31 14:26:11,313 - root - INFO - *************Login Passed ***************
+2022-10-31 14:29:20,205 - WDM - INFO - ====== WebDriver manager ======
+2022-10-31 14:29:20,751 - WDM - INFO - Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-10-31 14:29:21,374 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+2022-10-31 14:29:22,592 - root - INFO - **********Test_001_Login************
+2022-10-31 14:29:22,592 - root - INFO - ***************Verifying HomePage Title**************
+2022-10-31 14:29:23,633 - root - INFO - *************Verify Homepage Passed ***************
+2022-10-31 14:29:23,635 - WDM - INFO - ====== WebDriver manager ======
+2022-10-31 14:29:24,281 - WDM - INFO - Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-10-31 14:29:24,916 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+2022-10-31 14:29:26,119 - root - INFO - **********Test_001_Login************
+2022-10-31 14:29:26,119 - root - INFO - ***************Login test**************
+2022-10-31 14:29:28,202 - root - INFO - *************Login Passed ***************
+2022-10-31 14:30:54,422 - WDM - INFO - ====== WebDriver manager ======
+2022-10-31 14:30:54,969 - WDM - INFO - Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-10-31 14:30:55,583 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+2022-10-31 14:30:56,758 - root - INFO - **********Test_001_Login************
+2022-10-31 14:30:56,758 - root - INFO - ***************Verifying HomePage Title**************
+2022-10-31 14:30:57,768 - root - INFO - *************Verify Homepage Passed ***************
+2022-10-31 14:30:57,771 - WDM - INFO - ====== WebDriver manager ======
+2022-10-31 14:30:58,363 - WDM - INFO - Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-10-31 14:30:59,003 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+2022-10-31 14:31:00,308 - root - INFO - **********Test_001_Login************
+2022-10-31 14:31:00,308 - root - INFO - ***************Login test**************
+2022-10-31 14:31:02,654 - root - INFO - *************Login Passed ***************
+2022-10-31 14:35:41,842 - WDM - INFO - ====== WebDriver manager ======
+2022-10-31 14:35:42,445 - WDM - INFO - Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-10-31 14:35:43,039 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+2022-10-31 14:35:44,349 - root - INFO - **********Test_001_Login************
+2022-10-31 14:35:44,349 - root - INFO - ***************Verifying HomePage Title**************
+2022-10-31 14:35:45,470 - root - INFO - *************Verify Homepage Passed ***************
+2022-10-31 14:35:45,474 - WDM - INFO - ====== WebDriver manager ======
+2022-10-31 14:35:46,132 - WDM - INFO - Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-10-31 14:35:46,840 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+2022-10-31 14:35:48,069 - root - INFO - **********Test_001_Login************
+2022-10-31 14:35:48,069 - root - INFO - ***************Login test**************
+2022-10-31 14:35:50,490 - root - INFO - *************Login Passed ***************
+2022-10-31 14:38:08,170 - WDM - INFO - ====== WebDriver manager ======
+2022-10-31 14:38:08,688 - WDM - INFO - Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-10-31 14:38:09,261 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+2022-10-31 14:38:10,558 - root - INFO - **********Test_001_Login************
+2022-10-31 14:38:10,558 - root - INFO - ***************Verifying HomePage Title**************
+2022-10-31 14:38:11,492 - root - INFO - *************Verify Homepage Passed ***************
+2022-10-31 14:38:11,496 - WDM - INFO - ====== WebDriver manager ======
+2022-10-31 14:38:12,177 - WDM - INFO - Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-10-31 14:38:13,018 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+2022-10-31 14:38:14,215 - root - INFO - **********Test_001_Login************
+2022-10-31 14:38:14,216 - root - INFO - ***************Login test**************
+2022-10-31 14:38:16,772 - root - INFO - *************Login Passed ***************
+2022-10-31 15:13:17,652 - WDM - INFO - ====== WebDriver manager ======
+2022-10-31 15:13:18,245 - WDM - INFO - Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-10-31 15:13:18,992 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+2022-10-31 15:13:20,399 - root - INFO - **********Test_002_Login_DDT************
+2022-10-31 15:13:20,400 - root - INFO - ***************Login test**************
+2022-10-31 15:13:28,451 - root - INFO - *************Login Passed ***************
+2022-10-31 15:13:29,084 - root - INFO - Login DDT test Passed...................
+2022-10-31 15:16:24,151 - WDM - INFO - ====== WebDriver manager ======
+2022-10-31 15:16:24,638 - WDM - INFO - Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-10-31 15:16:25,237 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+2022-10-31 15:16:26,430 - root - INFO - **********Test_002_Login_DDT************
+2022-10-31 15:16:26,430 - root - INFO - ***************Login test**************
+2022-10-31 15:16:34,381 - root - INFO - *************Login Passed ***************
+2022-10-31 15:16:40,487 - root - INFO - ******Login Passed********
+2022-10-31 15:16:45,867 - root - INFO - ******Login Passed********
+2022-10-31 15:16:51,257 - root - INFO - ******Login Passed********
+2022-10-31 15:16:51,258 - root - INFO - Login DDT test Passed...................
+2022-10-31 15:16:51,433 - root - INFO - ****DDT id finished***********
+2022-11-01 10:14:15,677 - WDM - INFO - ====== WebDriver manager ======
+2022-11-01 10:14:16,507 - WDM - INFO - Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-11-01 10:14:17,167 - WDM - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/106.0.5249.61/chromedriver_win32.zip
+2022-11-01 10:14:18,937 - WDM - INFO - Driver has been saved in cache [C:\Users\nagav\.wdm\drivers\chromedriver\win32\106.0.5249]
+2022-11-01 10:14:20,238 - root - INFO - **********Test_002_Login_DDT************
+2022-11-01 10:14:20,239 - root - INFO - ***************Login test**************
+2022-11-01 10:14:28,214 - root - INFO - *************Login Passed ***************
+2022-11-01 10:14:34,088 - root - INFO - ******Login Passed********
+2022-11-01 10:14:39,469 - root - INFO - ******Login Passed********
+2022-11-01 10:14:44,895 - root - INFO - ******Login Passed********
+2022-11-01 10:14:44,895 - root - INFO - Login DDT test Passed...................
+2022-11-01 10:14:45,159 - root - INFO - ****DDT id finished***********
+2022-11-01 10:17:29,589 - WDM - INFO - ====== WebDriver manager ======
+2022-11-01 10:17:30,133 - WDM - INFO - Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-11-01 10:17:30,828 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+2022-11-01 10:17:32,141 - root - INFO - **********Test_002_Login_DDT************
+2022-11-01 10:17:32,141 - root - INFO - ***************Login test**************
+2022-11-01 10:17:40,372 - root - INFO - *************Login Passed ***************
+2022-11-01 10:17:46,268 - root - INFO - ******Login Passed********
+2022-11-01 10:17:51,654 - root - INFO - ******Login Passed********
+2022-11-01 10:17:56,999 - root - INFO - ******Login Passed********
+2022-11-01 10:17:56,999 - root - INFO - Login DDT test Passed...................
+2022-11-01 10:17:57,164 - root - INFO - ****DDT id finished***********
+2022-11-01 10:56:12,586 - WDM - INFO - ====== WebDriver manager ======
+2022-11-01 10:56:13,177 - WDM - INFO - Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-11-01 10:56:13,777 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+2022-11-01 10:56:21,290 - root - INFO - *************Login Passed ***************
+2022-11-01 13:46:52,221 - WDM - INFO - ====== WebDriver manager ======
+2022-11-01 13:46:52,848 - WDM - INFO - Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-11-01 13:46:53,500 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+2022-11-01 13:46:56,459 - root - INFO - ****** Starting Test_003_Add Customer***************
+2022-11-01 13:47:00,377 - root - INFO - *************Login Passed ***************
+2022-11-01 13:47:00,377 - root - INFO - ****** Clicking on Customermenu/submenu ***************
+2022-11-01 13:47:04,445 - root - INFO - ************* Adding Customer details**************
+2022-11-01 13:48:13,664 - WDM - INFO - ====== WebDriver manager ======
+2022-11-01 13:48:14,221 - WDM - INFO - Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-11-01 13:48:14,851 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+2022-11-01 13:48:16,096 - root - INFO - ****** Starting Test_003_Add Customer***************
+2022-11-01 13:48:19,622 - root - INFO - *************Login Passed ***************
+2022-11-01 13:48:19,622 - root - INFO - ****** Clicking on Customermenu/submenu ***************
+2022-11-01 13:48:27,857 - root - INFO - ************* Adding Customer details**************
+2022-11-01 13:52:21,311 - WDM - INFO - ====== WebDriver manager ======
+2022-11-01 13:52:21,866 - WDM - INFO - Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-11-01 13:52:22,726 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+2022-11-01 13:52:24,045 - root - INFO - ****** Starting Test_003_Add Customer***************
+2022-11-01 13:52:27,991 - root - INFO - *************Login Passed ***************
+2022-11-01 13:52:27,991 - root - INFO - ****** Clicking on Customermenu/submenu ***************
+2022-11-01 13:52:35,394 - root - INFO - ************* Adding Customer details**************
+2022-11-01 14:03:09,174 - WDM - INFO - ====== WebDriver manager ======
+2022-11-01 14:03:09,687 - WDM - INFO - Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-11-01 14:03:10,458 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+2022-11-01 14:03:11,654 - root - INFO - ****** Starting Test_003_Add Customer***************
+2022-11-01 14:03:14,671 - root - INFO - *************Login Passed ***************
+2022-11-01 14:03:14,671 - root - INFO - ****** Clicking on Customermenu/submenu ***************
+2022-11-01 14:03:20,649 - root - INFO - ************* Adding Customer details**************
+2022-11-01 14:03:24,114 - root - INFO - Selecting customer role
+2022-11-01 14:04:38,032 - WDM - INFO - ====== WebDriver manager ======
+2022-11-01 14:04:38,547 - WDM - INFO - Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-11-01 14:04:39,132 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+2022-11-01 14:04:40,365 - root - INFO - ****** Starting Test_003_Add Customer***************
+2022-11-01 14:04:43,532 - root - INFO - *************Login Passed ***************
+2022-11-01 14:04:43,532 - root - INFO - ****** Clicking on Customermenu/submenu ***************
+2022-11-01 14:04:49,370 - root - INFO - ************* Adding Customer details**************
+2022-11-01 14:04:52,825 - root - INFO - Selecting customer role
+2022-11-01 14:06:04,049 - WDM - INFO - ====== WebDriver manager ======
+2022-11-01 14:06:04,593 - WDM - INFO - Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-11-01 14:06:05,120 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+2022-11-01 14:06:06,409 - root - INFO - ****** Starting Test_003_Add Customer***************
+2022-11-01 14:06:09,576 - root - INFO - *************Login Passed ***************
+2022-11-01 14:06:09,576 - root - INFO - ****** Clicking on Customermenu/submenu ***************
+2022-11-01 14:06:15,553 - root - INFO - ************* Adding Customer details**************
+2022-11-01 14:06:18,989 - root - INFO - Selecting customer role
+2022-11-01 14:09:54,420 - WDM - INFO - ====== WebDriver manager ======
+2022-11-01 14:09:54,937 - WDM - INFO - Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-11-01 14:09:55,522 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+2022-11-01 14:09:56,736 - root - INFO - ****** Starting Test_003_Add Customer***************
+2022-11-01 14:10:00,177 - root - INFO - *************Login Passed ***************
+2022-11-01 14:10:00,177 - root - INFO - ****** Clicking on Customermenu/submenu ***************
+2022-11-01 14:10:07,308 - root - INFO - ************* Adding Customer details**************
+2022-11-01 14:10:10,728 - root - INFO - Selecting customer role
+2022-11-01 14:13:22,430 - WDM - INFO - ====== WebDriver manager ======
+2022-11-01 14:13:22,913 - WDM - INFO - Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-11-01 14:13:23,532 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+2022-11-01 14:13:24,782 - root - INFO - ****** Starting Test_003_Add Customer***************
+2022-11-01 14:13:28,177 - root - INFO - *************Login Passed ***************
+2022-11-01 14:13:28,177 - root - INFO - ****** Clicking on Customermenu/submenu ***************
+2022-11-01 14:13:35,286 - root - INFO - ************* Adding Customer details**************
+2022-11-01 14:13:38,716 - root - INFO - Selecting customer role
+2022-11-01 14:14:22,849 - WDM - INFO - ====== WebDriver manager ======
+2022-11-01 14:14:23,389 - WDM - INFO - Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-11-01 14:14:24,101 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+2022-11-01 14:14:25,315 - root - INFO - ****** Starting Test_003_Add Customer***************
+2022-11-01 14:14:30,398 - root - INFO - *************Login Passed ***************
+2022-11-01 14:14:30,398 - root - INFO - ****** Clicking on Customermenu/submenu ***************
+2022-11-01 14:14:38,227 - root - INFO - ************* Adding Customer details**************
+2022-11-01 14:14:41,687 - root - INFO - Selecting customer role
+2022-11-01 14:15:46,363 - WDM - INFO - ====== WebDriver manager ======
+2022-11-01 14:15:46,852 - WDM - INFO - Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-11-01 14:15:47,519 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+2022-11-01 14:15:48,711 - root - INFO - ****** Starting Test_003_Add Customer***************
+2022-11-01 14:15:52,110 - root - INFO - *************Login Passed ***************
+2022-11-01 14:15:52,110 - root - INFO - ****** Clicking on Customermenu/submenu ***************
+2022-11-01 14:16:00,444 - root - INFO - ************* Adding Customer details**************
+2022-11-01 14:16:03,918 - root - INFO - Selecting customer role
+2022-11-01 14:16:10,095 - root - INFO - Selected a guests role
+2022-11-01 14:17:57,039 - WDM - INFO - ====== WebDriver manager ======
+2022-11-01 14:17:57,542 - WDM - INFO - Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-11-01 14:17:58,182 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+2022-11-01 14:17:59,505 - root - INFO - ****** Starting Test_003_Add Customer***************
+2022-11-01 14:18:03,344 - root - INFO - *************Login Passed ***************
+2022-11-01 14:18:03,344 - root - INFO - ****** Clicking on Customermenu/submenu ***************
+2022-11-01 14:18:10,548 - root - INFO - ************* Adding Customer details**************
+2022-11-01 14:18:13,954 - root - INFO - Selecting customer role
+2022-11-01 14:18:20,110 - root - INFO - Selected a guests role
+2022-11-01 14:18:24,963 - root - INFO - *********** Added Customer Details************
+2022-11-01 14:18:25,085 - root - INFO - ########## Test case Add Customer Failed #############
+2022-11-01 14:21:17,044 - WDM - INFO - ====== WebDriver manager ======
+2022-11-01 14:21:17,624 - WDM - INFO - Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-11-01 14:21:18,261 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+2022-11-01 14:21:19,454 - root - INFO - ****** Starting Test_003_Add Customer***************
+2022-11-01 14:21:21,904 - root - INFO - *************Login Passed ***************
+2022-11-01 14:21:21,904 - root - INFO - ****** Clicking on Customermenu/submenu ***************
+2022-11-01 14:21:27,551 - root - INFO - ************* Adding Customer details**************
+2022-11-01 14:21:30,986 - root - INFO - Selecting customer role
+2022-11-01 14:21:37,135 - root - INFO - Selected a guests role
+2022-11-01 14:21:42,059 - root - INFO - *********** Added Customer Details************
+2022-11-01 14:21:42,219 - root - INFO - ########## Test case Add Customer Failed #############
+2022-11-01 14:25:02,164 - WDM - INFO - ====== WebDriver manager ======
+2022-11-01 14:25:02,656 - WDM - INFO - Get LATEST chromedriver version for google-chrome 106.0.5249
+2022-11-01 14:25:03,242 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+2022-11-01 14:25:04,479 - root - INFO - ****** Starting Test_003_Add Customer***************
+2022-11-01 14:25:07,399 - root - INFO - *************Login Passed ***************
+2022-11-01 14:25:07,399 - root - INFO - ****** Clicking on Customermenu/submenu ***************
+2022-11-01 14:25:13,107 - root - INFO - ************* Adding Customer details**************
+2022-11-01 14:25:16,504 - root - INFO - Selecting customer role
+2022-11-01 14:25:22,674 - root - INFO - Selected a guests role
+2022-11-01 14:25:27,553 - root - INFO - *********** Added Customer Details************
+2022-11-01 14:25:27,579 - root - INFO - ********** Test case Add Customer Passed**************
+2022-11-01 14:25:27,663 - root - INFO - *********Ending Add Customer Test ********
+2022-11-09 10:33:50,444 - WDM - INFO - ====== WebDriver manager ======
+2022-11-09 10:33:52,060 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-09 10:33:53,147 - WDM - INFO - There is no [win32] chromedriver for browser 107.0.5304 in cache
+2022-11-09 10:33:53,147 - WDM - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/107.0.5304.62/chromedriver_win32.zip
+2022-11-09 10:33:54,513 - WDM - INFO - Driver has been saved in cache [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304]
+2022-11-09 10:33:56,756 - root - INFO - *********** Starting Test_004 Search Customer*******
+2022-11-09 10:34:00,296 - root - INFO - *************Login Passed ***************
+2022-11-09 10:34:00,296 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-09 10:34:04,172 - root - INFO - ********* Searching customer by Email *********
+2022-11-09 10:36:44,975 - WDM - INFO - ====== WebDriver manager ======
+2022-11-09 10:36:45,931 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-09 10:36:46,999 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-09 10:36:48,180 - root - INFO - *********** Starting Test_004 Search Customer*******
+2022-11-09 10:36:51,568 - root - INFO - *************Login Passed ***************
+2022-11-09 10:36:51,568 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-09 10:36:54,487 - root - INFO - ********* Searching customer by Email *********
+2022-11-09 10:40:50,308 - WDM - INFO - ====== WebDriver manager ======
+2022-11-09 10:40:51,309 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-09 10:40:52,363 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-09 10:40:53,542 - root - INFO - *********** Starting Test_004 Search Customer*******
+2022-11-09 10:40:56,701 - root - INFO - *************Login Passed ***************
+2022-11-09 10:40:56,702 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-09 10:40:59,914 - root - INFO - ********* Searching customer by Email *********
+2022-11-09 10:42:37,061 - WDM - INFO - ====== WebDriver manager ======
+2022-11-09 10:42:38,031 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-09 10:42:39,180 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-09 10:42:40,370 - root - INFO - *********** Starting Test_004 Search Customer*******
+2022-11-09 10:42:43,355 - root - INFO - *************Login Passed ***************
+2022-11-09 10:42:43,356 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-09 10:42:47,004 - root - INFO - ********* Searching customer by Email *********
+2022-11-09 11:02:58,608 - root - INFO - *********** Starting Test_004 Search Customer*******
+2022-11-09 11:03:01,203 - root - INFO - *************Login Passed ***************
+2022-11-09 11:03:01,203 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-09 11:03:22,363 - WDM - INFO - ====== WebDriver manager ======
+2022-11-09 11:03:23,304 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-09 11:03:24,329 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-09 11:03:25,634 - root - INFO - *********** Starting Test_004 Search Customer*******
+2022-11-09 11:03:29,324 - root - INFO - *************Login Passed ***************
+2022-11-09 11:03:29,324 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-09 11:03:32,397 - root - INFO - ********* Searching customer by Email *********
+2022-11-09 11:04:53,601 - WDM - INFO - ====== WebDriver manager ======
+2022-11-09 11:04:54,636 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-09 11:04:55,686 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-09 11:04:56,961 - root - INFO - *********** Starting Test_004 Search Customer*******
+2022-11-09 11:05:00,587 - root - INFO - *************Login Passed ***************
+2022-11-09 11:05:00,587 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-09 11:05:04,103 - root - INFO - ********* Searching customer by Email *********
+2022-11-09 11:05:11,341 - root - INFO - *********** Test Search customer by Email Passed *************
+2022-11-09 11:07:25,328 - WDM - INFO - ====== WebDriver manager ======
+2022-11-09 11:07:26,316 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-09 11:07:27,409 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-09 11:07:28,613 - root - INFO - *********** Starting Test_004 Search Customer*******
+2022-11-09 11:07:31,608 - root - INFO - *************Login Passed ***************
+2022-11-09 11:07:31,608 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-09 11:07:36,351 - root - INFO - ********* Searching customer by Email *********
+2022-11-09 11:07:43,600 - root - INFO - *********** Test Search customer by Email Passed *************
+2022-11-09 11:17:17,069 - WDM - INFO - xdist worker is: gw0
+2022-11-09 11:17:17,069 - WDM - INFO - ====== WebDriver manager ======
+2022-11-09 11:17:17,069 - WDM - INFO - xdist worker is: gw1
+2022-11-09 11:17:17,069 - WDM - INFO - ====== WebDriver manager ======
+2022-11-09 11:17:18,296 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-09 11:17:18,311 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-09 11:17:19,657 - WDM - INFO - There is no [win32] chromedriver for browser 107.0.5304 in cache
+2022-11-09 11:17:19,657 - WDM - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/107.0.5304.62/chromedriver_win32.zip
+2022-11-09 11:17:19,662 - WDM - INFO - There is no [win32] chromedriver for browser 107.0.5304 in cache
+2022-11-09 11:17:19,662 - WDM - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/107.0.5304.62/chromedriver_win32.zip
+2022-11-09 11:17:21,306 - WDM - INFO - Driver has been saved in cache [C:\Users\nagav\.wdm\gw1\drivers\chromedriver\win32\107.0.5304]
+2022-11-09 11:17:21,725 - WDM - INFO - Driver has been saved in cache [C:\Users\nagav\.wdm\gw0\drivers\chromedriver\win32\107.0.5304]
+2022-11-09 11:17:22,892 - root - INFO - *********** Starting Test_004 Search Customer ny Name*******
+2022-11-09 11:17:23,619 - root - INFO - *********** Starting Test_004 Search Customer by Email*******
+2022-11-09 11:17:26,873 - root - INFO - *************Login Passed ***************
+2022-11-09 11:17:26,873 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-09 11:17:27,289 - root - INFO - *************Login Passed ***************
+2022-11-09 11:17:27,289 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-09 11:17:29,826 - root - INFO - ********* Searching customer by Name *********
+2022-11-09 11:17:30,269 - root - INFO - ********* Searching customer by Email *********
+2022-11-09 11:17:37,153 - root - INFO - *********** Test Search customer by Name Passed *************
+2022-11-09 11:17:37,505 - root - INFO - *********** Test Search customer by Email Passed *************
+2022-11-09 11:18:24,774 - WDM - INFO - xdist worker is: gw1
+2022-11-09 11:18:24,774 - WDM - INFO - ====== WebDriver manager ======
+2022-11-09 11:18:24,774 - WDM - INFO - xdist worker is: gw0
+2022-11-09 11:18:24,774 - WDM - INFO - ====== WebDriver manager ======
+2022-11-09 11:18:26,145 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-09 11:18:26,156 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-09 11:18:27,567 - WDM - INFO - Driver [C:\Users\nagav\.wdm\gw0\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-09 11:18:27,577 - WDM - INFO - Driver [C:\Users\nagav\.wdm\gw1\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-09 11:18:28,980 - root - INFO - *********** Starting Test_004 Search Customer by Email*******
+2022-11-09 11:18:29,185 - root - INFO - *********** Starting Test_004 Search Customer ny Name*******
+2022-11-09 11:18:32,989 - root - INFO - *************Login Passed ***************
+2022-11-09 11:18:32,989 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-09 11:18:33,123 - root - INFO - *************Login Passed ***************
+2022-11-09 11:18:33,123 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-09 11:18:36,121 - root - INFO - ********* Searching customer by Name *********
+2022-11-09 11:18:36,356 - root - INFO - ********* Searching customer by Email *********
+2022-11-09 11:18:43,585 - root - ERROR - ##### Test Search customer by Name Failed ############
+2022-11-09 11:18:43,604 - root - INFO - *********** Test Search customer by Email Passed *************
+2022-11-09 11:22:07,366 - WDM - INFO - xdist worker is: gw0
+2022-11-09 11:22:07,366 - WDM - INFO - ====== WebDriver manager ======
+2022-11-09 11:22:07,366 - WDM - INFO - ====== WebDriver manager ======
+2022-11-09 11:22:08,601 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-09 11:22:08,622 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-09 11:22:09,905 - WDM - INFO - Driver [C:\Users\nagav\.wdm\gw1\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-09 11:22:09,922 - WDM - INFO - Driver [C:\Users\nagav\.wdm\gw0\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-09 11:22:11,286 - root - INFO - *********** Starting Test_004 Search Customer by Email*******
+2022-11-09 11:22:11,331 - root - INFO - *********** Starting Test_004 Search Customer ny Name*******
+2022-11-09 11:22:15,240 - root - INFO - *************Login Passed ***************
+2022-11-09 11:22:15,240 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-09 11:22:15,272 - root - INFO - *************Login Passed ***************
+2022-11-09 11:22:15,272 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-09 11:22:18,516 - root - INFO - ********* Searching customer by Name *********
+2022-11-09 11:22:18,538 - root - INFO - ********* Searching customer by Email *********
+2022-11-09 11:22:25,782 - root - INFO - *********** Test Search customer by Email Passed *************
+2022-11-09 11:22:25,972 - root - ERROR - ##### Test Search customer by Name Failed ############
+2022-11-09 11:26:10,702 - WDM - INFO - xdist worker is: gw1
+2022-11-09 11:26:10,702 - WDM - INFO - ====== WebDriver manager ======
+2022-11-09 11:26:10,702 - WDM - INFO - ====== WebDriver manager ======
+2022-11-09 11:26:13,040 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-09 11:26:13,045 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-09 11:26:15,503 - WDM - INFO - Driver [C:\Users\nagav\.wdm\gw1\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-09 11:26:15,535 - WDM - INFO - Driver [C:\Users\nagav\.wdm\gw0\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-09 11:26:17,446 - root - INFO - *********** Starting Test_004 Search Customer by Email*******
+2022-11-09 11:26:17,491 - root - INFO - *********** Starting Test_004 Search Customer ny Name*******
+2022-11-09 11:26:22,947 - root - INFO - *************Login Passed ***************
+2022-11-09 11:26:22,947 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-09 11:26:22,963 - root - INFO - *************Login Passed ***************
+2022-11-09 11:26:22,963 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-09 11:26:26,747 - root - INFO - ********* Searching customer by Email *********
+2022-11-09 11:26:26,771 - root - INFO - ********* Searching customer by Name *********
+2022-11-09 11:26:34,120 - root - INFO - *********** Test Search customer by Email Passed *************
+2022-11-09 11:26:34,580 - root - ERROR - ##### Test Search customer by Name Failed ############
+2022-11-09 11:31:31,928 - WDM - INFO - xdist worker is: gw0
+2022-11-09 11:31:31,929 - WDM - INFO - ====== WebDriver manager ======
+2022-11-09 11:31:31,929 - WDM - INFO - ====== WebDriver manager ======
+2022-11-09 11:31:34,520 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-09 11:31:34,575 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-09 11:31:37,438 - WDM - INFO - Driver [C:\Users\nagav\.wdm\gw0\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-09 11:31:37,469 - WDM - INFO - Driver [C:\Users\nagav\.wdm\gw1\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-09 11:31:39,650 - root - INFO - *********** Starting Test_004 Search Customer by Email*******
+2022-11-09 11:31:39,715 - root - INFO - *********** Starting Test_004 Search Customer ny Name*******
+2022-11-09 11:31:45,853 - root - INFO - *************Login Passed ***************
+2022-11-09 11:31:45,854 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-09 11:31:45,890 - root - INFO - *************Login Passed ***************
+2022-11-09 11:31:45,891 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-09 11:31:49,968 - root - INFO - ********* Searching customer by Email *********
+2022-11-09 11:31:50,067 - root - INFO - ********* Searching customer by Name *********
+2022-11-09 11:31:57,449 - root - INFO - *********** Test Search customer by Email Passed *************
+2022-11-09 11:31:57,970 - root - ERROR - ##### Test Search customer by Name Failed ############
+2022-11-09 11:32:59,229 - WDM - INFO - xdist worker is: gw0
+2022-11-09 11:32:59,229 - WDM - INFO - xdist worker is: gw1
+2022-11-09 11:32:59,229 - WDM - INFO - ====== WebDriver manager ======
+2022-11-09 11:32:59,229 - WDM - INFO - ====== WebDriver manager ======
+2022-11-09 11:33:01,850 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-09 11:33:01,871 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-09 11:33:04,501 - WDM - INFO - Driver [C:\Users\nagav\.wdm\gw0\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-09 11:33:04,501 - WDM - INFO - Driver [C:\Users\nagav\.wdm\gw1\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-09 11:33:06,585 - root - INFO - *********** Starting Test_004 Search Customer ny Name*******
+2022-11-09 11:33:06,854 - root - INFO - *********** Starting Test_004 Search Customer by Email*******
+2022-11-09 11:33:12,569 - root - INFO - *************Login Passed ***************
+2022-11-09 11:33:12,570 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-09 11:33:12,753 - root - INFO - *************Login Passed ***************
+2022-11-09 11:33:12,753 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-09 11:33:16,544 - root - INFO - ********* Searching customer by Email *********
+2022-11-09 11:33:16,607 - root - INFO - ********* Searching customer by Name *********
+2022-11-09 11:33:23,968 - root - INFO - *********** Test Search customer by Email Passed *************
+2022-11-09 11:33:24,398 - root - ERROR - ##### Test Search customer by Name Failed ############
+2022-11-10 10:24:47,614 - WDM - INFO - ====== WebDriver manager ======
+2022-11-10 10:24:47,614 - WDM - INFO - ====== WebDriver manager ======
+2022-11-10 10:24:47,614 - WDM - INFO - ====== WebDriver manager ======
+2022-11-10 10:24:47,614 - WDM - INFO - ====== WebDriver manager ======
+2022-11-10 10:24:48,236 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-10 10:24:48,236 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-10 10:24:48,236 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-10 10:24:48,236 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-10 10:24:48,900 - WDM - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/107.0.5304.62/chromedriver_win32.zip
+2022-11-10 10:24:48,900 - WDM - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/107.0.5304.62/chromedriver_win32.zip
+2022-11-10 10:24:48,900 - WDM - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/107.0.5304.62/chromedriver_win32.zip
+2022-11-10 10:24:48,900 - WDM - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/107.0.5304.62/chromedriver_win32.zip
+2022-11-10 10:24:49,595 - WDM - INFO - Driver has been saved in cache [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304]
+2022-11-10 10:24:49,595 - WDM - INFO - Driver has been saved in cache [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304]
+2022-11-10 10:24:49,595 - WDM - INFO - Driver has been saved in cache [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304]
+2022-11-10 10:24:49,595 - WDM - INFO - Driver has been saved in cache [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304]
+2022-11-10 10:24:51,412 - root - INFO - ****** Starting Test_003_Add Customer***************
+2022-11-10 10:24:51,412 - root - INFO - ****** Starting Test_003_Add Customer***************
+2022-11-10 10:24:51,412 - root - INFO - ****** Starting Test_003_Add Customer***************
+2022-11-10 10:24:51,412 - root - INFO - ****** Starting Test_003_Add Customer***************
+2022-11-10 10:24:56,518 - root - INFO - *************Login Passed ***************
+2022-11-10 10:24:56,518 - root - INFO - *************Login Passed ***************
+2022-11-10 10:24:56,518 - root - INFO - *************Login Passed ***************
+2022-11-10 10:24:56,518 - root - INFO - *************Login Passed ***************
+2022-11-10 10:24:56,518 - root - INFO - ****** Clicking on Customermenu/submenu ***************
+2022-11-10 10:24:56,518 - root - INFO - ****** Clicking on Customermenu/submenu ***************
+2022-11-10 10:24:56,518 - root - INFO - ****** Clicking on Customermenu/submenu ***************
+2022-11-10 10:24:56,518 - root - INFO - ****** Clicking on Customermenu/submenu ***************
+2022-11-10 10:25:03,884 - root - INFO - ************* Adding Customer details**************
+2022-11-10 10:25:03,884 - root - INFO - ************* Adding Customer details**************
+2022-11-10 10:25:03,884 - root - INFO - ************* Adding Customer details**************
+2022-11-10 10:25:03,884 - root - INFO - ************* Adding Customer details**************
+2022-11-10 10:25:07,231 - root - INFO - Selecting customer role
+2022-11-10 10:25:07,231 - root - INFO - Selecting customer role
+2022-11-10 10:25:07,231 - root - INFO - Selecting customer role
+2022-11-10 10:25:07,231 - root - INFO - Selecting customer role
+2022-11-10 10:25:13,383 - root - INFO - Selected a guests role
+2022-11-10 10:25:13,383 - root - INFO - Selected a guests role
+2022-11-10 10:25:13,383 - root - INFO - Selected a guests role
+2022-11-10 10:25:13,383 - root - INFO - Selected a guests role
+2022-11-10 10:25:18,244 - root - INFO - *********** Added Customer Details************
+2022-11-10 10:25:18,244 - root - INFO - *********** Added Customer Details************
+2022-11-10 10:25:18,244 - root - INFO - *********** Added Customer Details************
+2022-11-10 10:25:18,244 - root - INFO - *********** Added Customer Details************
+2022-11-10 10:25:18,262 - root - INFO - ********** Test case Add Customer Passed**************
+2022-11-10 10:25:18,262 - root - INFO - ********** Test case Add Customer Passed**************
+2022-11-10 10:25:18,262 - root - INFO - ********** Test case Add Customer Passed**************
+2022-11-10 10:25:18,262 - root - INFO - ********** Test case Add Customer Passed**************
+2022-11-10 10:25:18,445 - root - INFO - *********Ending Add Customer Test ********
+2022-11-10 10:25:18,445 - root - INFO - *********Ending Add Customer Test ********
+2022-11-10 10:25:18,445 - root - INFO - *********Ending Add Customer Test ********
+2022-11-10 10:25:18,445 - root - INFO - *********Ending Add Customer Test ********
+2022-11-10 10:25:18,449 - WDM - INFO - ====== WebDriver manager ======
+2022-11-10 10:25:18,449 - WDM - INFO - ====== WebDriver manager ======
+2022-11-10 10:25:18,449 - WDM - INFO - ====== WebDriver manager ======
+2022-11-10 10:25:18,449 - WDM - INFO - ====== WebDriver manager ======
+2022-11-10 10:25:19,012 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-10 10:25:19,012 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-10 10:25:19,012 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-10 10:25:19,012 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-10 10:25:19,477 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-10 10:25:19,477 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-10 10:25:19,477 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-10 10:25:19,477 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-10 10:25:20,705 - root - INFO - **********Test_001_Login************
+2022-11-10 10:25:20,705 - root - INFO - **********Test_001_Login************
+2022-11-10 10:25:20,705 - root - INFO - **********Test_001_Login************
+2022-11-10 10:25:20,705 - root - INFO - **********Test_001_Login************
+2022-11-10 10:25:20,705 - root - INFO - ***************Login test**************
+2022-11-10 10:25:20,705 - root - INFO - ***************Login test**************
+2022-11-10 10:25:20,705 - root - INFO - ***************Login test**************
+2022-11-10 10:25:20,705 - root - INFO - ***************Login test**************
+2022-11-10 10:25:24,640 - root - INFO - *************Login Passed ***************
+2022-11-10 10:25:24,640 - root - INFO - *************Login Passed ***************
+2022-11-10 10:25:24,640 - root - INFO - *************Login Passed ***************
+2022-11-10 10:25:24,640 - root - INFO - *************Login Passed ***************
+2022-11-10 10:30:48,890 - WDM - INFO - ====== WebDriver manager ======
+2022-11-10 10:30:48,890 - WDM - INFO - ====== WebDriver manager ======
+2022-11-10 10:30:48,890 - WDM - INFO - ====== WebDriver manager ======
+2022-11-10 10:30:48,890 - WDM - INFO - ====== WebDriver manager ======
+2022-11-10 10:30:49,279 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-10 10:30:49,279 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-10 10:30:49,279 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-10 10:30:49,279 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-10 10:30:49,786 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-10 10:30:49,786 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-10 10:30:49,786 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-10 10:30:49,786 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-10 10:30:50,971 - root - INFO - **********Test_001_Login************
+2022-11-10 10:30:50,971 - root - INFO - **********Test_001_Login************
+2022-11-10 10:30:50,971 - root - INFO - **********Test_001_Login************
+2022-11-10 10:30:50,971 - root - INFO - **********Test_001_Login************
+2022-11-10 10:30:50,972 - root - INFO - ***************Verifying HomePage Title**************
+2022-11-10 10:30:50,972 - root - INFO - ***************Verifying HomePage Title**************
+2022-11-10 10:30:50,972 - root - INFO - ***************Verifying HomePage Title**************
+2022-11-10 10:30:50,972 - root - INFO - ***************Verifying HomePage Title**************
+2022-11-10 10:30:52,292 - root - INFO - *************Verify Homepage Passed ***************
+2022-11-10 10:30:52,292 - root - INFO - *************Verify Homepage Passed ***************
+2022-11-10 10:30:52,292 - root - INFO - *************Verify Homepage Passed ***************
+2022-11-10 10:30:52,292 - root - INFO - *************Verify Homepage Passed ***************
+2022-11-10 10:30:52,295 - WDM - INFO - ====== WebDriver manager ======
+2022-11-10 10:30:52,295 - WDM - INFO - ====== WebDriver manager ======
+2022-11-10 10:30:52,295 - WDM - INFO - ====== WebDriver manager ======
+2022-11-10 10:30:52,295 - WDM - INFO - ====== WebDriver manager ======
+2022-11-10 10:30:52,874 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-10 10:30:52,874 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-10 10:30:52,874 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-10 10:30:52,874 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-10 10:30:53,445 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-10 10:30:53,445 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-10 10:30:53,445 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-10 10:30:53,445 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-10 10:30:54,609 - root - INFO - **********Test_001_Login************
+2022-11-10 10:30:54,609 - root - INFO - **********Test_001_Login************
+2022-11-10 10:30:54,609 - root - INFO - **********Test_001_Login************
+2022-11-10 10:30:54,609 - root - INFO - **********Test_001_Login************
+2022-11-10 10:30:54,609 - root - INFO - ***************Login test**************
+2022-11-10 10:30:54,609 - root - INFO - ***************Login test**************
+2022-11-10 10:30:54,609 - root - INFO - ***************Login test**************
+2022-11-10 10:30:54,609 - root - INFO - ***************Login test**************
+2022-11-10 10:30:57,284 - root - INFO - *************Login Passed ***************
+2022-11-10 10:30:57,284 - root - INFO - *************Login Passed ***************
+2022-11-10 10:30:57,284 - root - INFO - *************Login Passed ***************
+2022-11-10 10:30:57,284 - root - INFO - *************Login Passed ***************
+2022-11-10 10:31:14,189 - WDM - INFO - ====== WebDriver manager ======
+2022-11-10 10:31:14,189 - WDM - INFO - ====== WebDriver manager ======
+2022-11-10 10:31:14,189 - WDM - INFO - ====== WebDriver manager ======
+2022-11-10 10:31:14,189 - WDM - INFO - ====== WebDriver manager ======
+2022-11-10 10:31:14,556 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-10 10:31:14,556 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-10 10:31:14,556 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-10 10:31:14,556 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-10 10:31:14,997 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-10 10:31:14,997 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-10 10:31:14,997 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-10 10:31:14,997 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-10 10:31:16,178 - root - INFO - **********Test_002_Login_DDT************
+2022-11-10 10:31:16,178 - root - INFO - **********Test_002_Login_DDT************
+2022-11-10 10:31:16,178 - root - INFO - **********Test_002_Login_DDT************
+2022-11-10 10:31:16,178 - root - INFO - **********Test_002_Login_DDT************
+2022-11-10 10:31:16,178 - root - INFO - ***************Login test**************
+2022-11-10 10:31:16,178 - root - INFO - ***************Login test**************
+2022-11-10 10:31:16,178 - root - INFO - ***************Login test**************
+2022-11-10 10:31:16,178 - root - INFO - ***************Login test**************
+2022-11-10 10:31:26,349 - root - INFO - *************Login Passed ***************
+2022-11-10 10:31:26,349 - root - INFO - *************Login Passed ***************
+2022-11-10 10:31:26,349 - root - INFO - *************Login Passed ***************
+2022-11-10 10:31:26,349 - root - INFO - *************Login Passed ***************
+2022-11-10 10:31:32,374 - root - INFO - ******Login Passed********
+2022-11-10 10:31:32,374 - root - INFO - ******Login Passed********
+2022-11-10 10:31:32,374 - root - INFO - ******Login Passed********
+2022-11-10 10:31:32,374 - root - INFO - ******Login Passed********
+2022-11-10 10:31:37,741 - root - INFO - ******Login Passed********
+2022-11-10 10:31:37,741 - root - INFO - ******Login Passed********
+2022-11-10 10:31:37,741 - root - INFO - ******Login Passed********
+2022-11-10 10:31:37,741 - root - INFO - ******Login Passed********
+2022-11-10 10:31:43,126 - root - INFO - ******Login Passed********
+2022-11-10 10:31:43,126 - root - INFO - ******Login Passed********
+2022-11-10 10:31:43,126 - root - INFO - ******Login Passed********
+2022-11-10 10:31:43,126 - root - INFO - ******Login Passed********
+2022-11-10 10:31:43,126 - root - INFO - Login DDT test Passed...................
+2022-11-10 10:31:43,126 - root - INFO - Login DDT test Passed...................
+2022-11-10 10:31:43,126 - root - INFO - Login DDT test Passed...................
+2022-11-10 10:31:43,126 - root - INFO - Login DDT test Passed...................
+2022-11-10 10:31:43,251 - root - INFO - ****DDT is finished***********
+2022-11-10 10:31:43,251 - root - INFO - ****DDT is finished***********
+2022-11-10 10:31:43,251 - root - INFO - ****DDT is finished***********
+2022-11-10 10:31:43,251 - root - INFO - ****DDT is finished***********
+2022-11-10 10:31:43,257 - WDM - INFO - ====== WebDriver manager ======
+2022-11-10 10:31:43,257 - WDM - INFO - ====== WebDriver manager ======
+2022-11-10 10:31:43,257 - WDM - INFO - ====== WebDriver manager ======
+2022-11-10 10:31:43,257 - WDM - INFO - ====== WebDriver manager ======
+2022-11-10 10:31:43,859 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-10 10:31:43,859 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-10 10:31:43,859 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-10 10:31:43,859 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-10 10:31:44,451 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-10 10:31:44,451 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-10 10:31:44,451 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-10 10:31:44,451 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-10 10:31:45,695 - root - INFO - *********** Starting Test_004 Search Customer by Email*******
+2022-11-10 10:31:45,695 - root - INFO - *********** Starting Test_004 Search Customer by Email*******
+2022-11-10 10:31:45,695 - root - INFO - *********** Starting Test_004 Search Customer by Email*******
+2022-11-10 10:31:45,695 - root - INFO - *********** Starting Test_004 Search Customer by Email*******
+2022-11-10 10:31:50,658 - root - INFO - *************Login Passed ***************
+2022-11-10 10:31:50,658 - root - INFO - *************Login Passed ***************
+2022-11-10 10:31:50,658 - root - INFO - *************Login Passed ***************
+2022-11-10 10:31:50,658 - root - INFO - *************Login Passed ***************
+2022-11-10 10:31:50,659 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-10 10:31:50,659 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-10 10:31:50,659 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-10 10:31:50,659 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-10 10:31:55,808 - root - INFO - ********* Searching customer by Email *********
+2022-11-10 10:31:55,808 - root - INFO - ********* Searching customer by Email *********
+2022-11-10 10:31:55,808 - root - INFO - ********* Searching customer by Email *********
+2022-11-10 10:31:55,808 - root - INFO - ********* Searching customer by Email *********
+2022-11-10 10:32:03,017 - root - INFO - *********** Test Search customer by Email Passed *************
+2022-11-10 10:32:03,017 - root - INFO - *********** Test Search customer by Email Passed *************
+2022-11-10 10:32:03,017 - root - INFO - *********** Test Search customer by Email Passed *************
+2022-11-10 10:32:03,017 - root - INFO - *********** Test Search customer by Email Passed *************
+2022-11-10 10:32:03,032 - WDM - INFO - ====== WebDriver manager ======
+2022-11-10 10:32:03,032 - WDM - INFO - ====== WebDriver manager ======
+2022-11-10 10:32:03,032 - WDM - INFO - ====== WebDriver manager ======
+2022-11-10 10:32:03,032 - WDM - INFO - ====== WebDriver manager ======
+2022-11-10 10:32:03,429 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-10 10:32:03,429 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-10 10:32:03,429 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-10 10:32:03,429 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-10 10:32:03,869 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-10 10:32:03,869 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-10 10:32:03,869 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-10 10:32:03,869 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-10 10:32:05,073 - root - INFO - *********** Starting Test_004 Search Customer ny Name*******
+2022-11-10 10:32:05,073 - root - INFO - *********** Starting Test_004 Search Customer ny Name*******
+2022-11-10 10:32:05,073 - root - INFO - *********** Starting Test_004 Search Customer ny Name*******
+2022-11-10 10:32:05,073 - root - INFO - *********** Starting Test_004 Search Customer ny Name*******
+2022-11-10 10:32:11,823 - root - INFO - *************Login Passed ***************
+2022-11-10 10:32:11,823 - root - INFO - *************Login Passed ***************
+2022-11-10 10:32:11,823 - root - INFO - *************Login Passed ***************
+2022-11-10 10:32:11,823 - root - INFO - *************Login Passed ***************
+2022-11-10 10:32:11,823 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-10 10:32:11,823 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-10 10:32:11,823 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-10 10:32:11,823 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-10 10:32:15,677 - root - INFO - ********* Searching customer by Name *********
+2022-11-10 10:32:15,677 - root - INFO - ********* Searching customer by Name *********
+2022-11-10 10:32:15,677 - root - INFO - ********* Searching customer by Name *********
+2022-11-10 10:32:15,677 - root - INFO - ********* Searching customer by Name *********
+2022-11-10 10:32:23,092 - root - ERROR - ##### Test Search customer by Name Failed ############
+2022-11-10 10:32:23,092 - root - ERROR - ##### Test Search customer by Name Failed ############
+2022-11-10 10:32:23,092 - root - ERROR - ##### Test Search customer by Name Failed ############
+2022-11-10 10:32:23,092 - root - ERROR - ##### Test Search customer by Name Failed ############
+2022-11-10 10:48:54,771 - WDM - INFO - xdist worker is: gw0
+2022-11-10 10:48:54,771 - WDM - INFO - ====== WebDriver manager ======
+2022-11-10 10:48:54,771 - WDM - INFO - xdist worker is: gw1
+2022-11-10 10:48:54,773 - WDM - INFO - ====== WebDriver manager ======
+2022-11-10 10:48:55,324 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-10 10:48:55,324 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-10 10:48:55,847 - WDM - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/107.0.5304.62/chromedriver_win32.zip
+2022-11-10 10:48:55,855 - WDM - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/107.0.5304.62/chromedriver_win32.zip
+2022-11-10 10:48:57,690 - WDM - INFO - Driver has been saved in cache [C:\Users\nagav\.wdm\gw0\drivers\chromedriver\win32\107.0.5304]
+2022-11-10 10:48:57,691 - WDM - INFO - Driver has been saved in cache [C:\Users\nagav\.wdm\gw1\drivers\chromedriver\win32\107.0.5304]
+2022-11-10 10:48:59,374 - root - INFO - *********** Starting Test_004 Search Customer by Email*******
+2022-11-10 10:48:59,452 - root - INFO - *********** Starting Test_004 Search Customer ny Name*******
+2022-11-10 10:49:02,699 - root - INFO - *************Login Passed ***************
+2022-11-10 10:49:02,700 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-10 10:49:02,776 - root - INFO - *************Login Passed ***************
+2022-11-10 10:49:02,776 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-10 10:49:05,884 - root - INFO - ********* Searching customer by Name *********
+2022-11-10 10:49:07,261 - root - INFO - ********* Searching customer by Email *********
+2022-11-10 10:49:13,298 - root - ERROR - ##### Test Search customer by Name Failed ############
+2022-11-10 10:49:14,476 - root - INFO - *********** Test Search customer by Email Passed *************
+2022-11-10 14:40:22,597 - WDM - INFO - ====== WebDriver manager ======
+2022-11-10 14:40:23,382 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-10 14:40:23,935 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-10 14:40:25,284 - root - INFO - *********** Starting Test_004 Search Customer by Email*******
+2022-11-10 14:40:34,839 - root - INFO - *************Login Passed ***************
+2022-11-10 14:40:34,839 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-10 14:40:38,765 - root - INFO - ********* Searching customer by Email *********
+2022-11-10 14:40:46,003 - root - INFO - *********** Test Search customer by Email Passed *************
+2022-11-10 14:40:46,010 - WDM - INFO - ====== WebDriver manager ======
+2022-11-10 14:40:46,410 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-10 14:40:46,893 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-10 14:40:48,088 - root - INFO - *********** Starting Test_004 Search Customer ny Name*******
+2022-11-10 14:40:51,170 - root - INFO - *************Login Passed ***************
+2022-11-10 14:40:51,170 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-10 14:40:54,017 - root - INFO - ********* Searching customer by Name *********
+2022-11-10 14:41:01,565 - root - ERROR - ##### Test Search customer by Name Failed ############
+2022-11-10 14:43:50,617 - WDM - INFO - ====== WebDriver manager ======
+2022-11-10 14:43:51,027 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-10 14:43:51,484 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-10 14:43:52,676 - root - INFO - *********** Starting Test_004 Search Customer by Email*******
+2022-11-10 14:43:55,580 - root - INFO - *************Login Passed ***************
+2022-11-10 14:43:55,580 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-10 14:43:58,455 - root - INFO - ********* Searching customer by Email *********
+2022-11-10 14:44:05,630 - root - INFO - *********** Test Search customer by Email Passed *************
+2022-11-10 14:44:05,630 - WDM - INFO - ====== WebDriver manager ======
+2022-11-10 14:44:06,011 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-10 14:44:06,418 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-10 14:44:07,591 - root - INFO - *********** Starting Test_004 Search Customer ny Name*******
+2022-11-10 14:44:10,934 - root - INFO - *************Login Passed ***************
+2022-11-10 14:44:10,935 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-10 14:44:13,869 - root - INFO - ********* Searching customer by Name *********
+2022-11-10 14:44:21,396 - root - ERROR - ##### Test Search customer by Name Failed ############
+2022-11-10 14:50:20,080 - WDM - INFO - ====== WebDriver manager ======
+2022-11-10 14:50:20,080 - WDM - INFO - ====== WebDriver manager ======
+2022-11-10 14:50:20,080 - WDM - INFO - ====== WebDriver manager ======
+2022-11-10 14:50:20,080 - WDM - INFO - ====== WebDriver manager ======
+2022-11-10 14:50:20,509 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-10 14:50:20,509 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-10 14:50:20,509 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-10 14:50:20,509 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-10 14:50:21,050 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-10 14:50:21,050 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-10 14:50:21,050 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-10 14:50:21,050 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-10 14:50:22,291 - root - INFO - **********Test_001_Login************
+2022-11-10 14:50:22,291 - root - INFO - **********Test_001_Login************
+2022-11-10 14:50:22,291 - root - INFO - **********Test_001_Login************
+2022-11-10 14:50:22,291 - root - INFO - **********Test_001_Login************
+2022-11-10 14:50:22,291 - root - INFO - ***************Verifying HomePage Title**************
+2022-11-10 14:50:22,291 - root - INFO - ***************Verifying HomePage Title**************
+2022-11-10 14:50:22,291 - root - INFO - ***************Verifying HomePage Title**************
+2022-11-10 14:50:22,291 - root - INFO - ***************Verifying HomePage Title**************
+2022-11-10 14:50:23,315 - root - INFO - *************Verify Homepage Passed ***************
+2022-11-10 14:50:23,315 - root - INFO - *************Verify Homepage Passed ***************
+2022-11-10 14:50:23,315 - root - INFO - *************Verify Homepage Passed ***************
+2022-11-10 14:50:23,315 - root - INFO - *************Verify Homepage Passed ***************
+2022-11-10 14:50:23,328 - WDM - INFO - ====== WebDriver manager ======
+2022-11-10 14:50:23,328 - WDM - INFO - ====== WebDriver manager ======
+2022-11-10 14:50:23,328 - WDM - INFO - ====== WebDriver manager ======
+2022-11-10 14:50:23,328 - WDM - INFO - ====== WebDriver manager ======
+2022-11-10 14:50:24,076 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-10 14:50:24,076 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-10 14:50:24,076 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-10 14:50:24,076 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-10 14:50:24,707 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-10 14:50:24,707 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-10 14:50:24,707 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-10 14:50:24,707 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-10 14:50:25,869 - root - INFO - **********Test_001_Login************
+2022-11-10 14:50:25,869 - root - INFO - **********Test_001_Login************
+2022-11-10 14:50:25,869 - root - INFO - **********Test_001_Login************
+2022-11-10 14:50:25,869 - root - INFO - **********Test_001_Login************
+2022-11-10 14:50:25,869 - root - INFO - ***************Login test**************
+2022-11-10 14:50:25,869 - root - INFO - ***************Login test**************
+2022-11-10 14:50:25,869 - root - INFO - ***************Login test**************
+2022-11-10 14:50:25,869 - root - INFO - ***************Login test**************
+2022-11-10 14:50:28,375 - root - INFO - *************Login Passed ***************
+2022-11-10 14:50:28,375 - root - INFO - *************Login Passed ***************
+2022-11-10 14:50:28,375 - root - INFO - *************Login Passed ***************
+2022-11-10 14:50:28,375 - root - INFO - *************Login Passed ***************
+2022-11-10 14:50:45,142 - WDM - INFO - ====== WebDriver manager ======
+2022-11-10 14:50:45,142 - WDM - INFO - ====== WebDriver manager ======
+2022-11-10 14:50:45,142 - WDM - INFO - ====== WebDriver manager ======
+2022-11-10 14:50:45,142 - WDM - INFO - ====== WebDriver manager ======
+2022-11-10 14:50:45,505 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-10 14:50:45,505 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-10 14:50:45,505 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-10 14:50:45,505 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-10 14:50:45,936 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-10 14:50:45,936 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-10 14:50:45,936 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-10 14:50:45,936 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-10 14:50:47,157 - root - INFO - **********Test_002_Login_DDT************
+2022-11-10 14:50:47,157 - root - INFO - **********Test_002_Login_DDT************
+2022-11-10 14:50:47,157 - root - INFO - **********Test_002_Login_DDT************
+2022-11-10 14:50:47,157 - root - INFO - **********Test_002_Login_DDT************
+2022-11-10 14:50:47,158 - root - INFO - ***************Login test**************
+2022-11-10 14:50:47,158 - root - INFO - ***************Login test**************
+2022-11-10 14:50:47,158 - root - INFO - ***************Login test**************
+2022-11-10 14:50:47,158 - root - INFO - ***************Login test**************
+2022-11-10 14:50:54,623 - root - INFO - *************Login Passed ***************
+2022-11-10 14:50:54,623 - root - INFO - *************Login Passed ***************
+2022-11-10 14:50:54,623 - root - INFO - *************Login Passed ***************
+2022-11-10 14:50:54,623 - root - INFO - *************Login Passed ***************
+2022-11-10 14:51:00,469 - root - INFO - ******Login Passed********
+2022-11-10 14:51:00,469 - root - INFO - ******Login Passed********
+2022-11-10 14:51:00,469 - root - INFO - ******Login Passed********
+2022-11-10 14:51:00,469 - root - INFO - ******Login Passed********
+2022-11-10 14:51:05,815 - root - INFO - ******Login Passed********
+2022-11-10 14:51:05,815 - root - INFO - ******Login Passed********
+2022-11-10 14:51:05,815 - root - INFO - ******Login Passed********
+2022-11-10 14:51:05,815 - root - INFO - ******Login Passed********
+2022-11-10 14:51:11,168 - root - INFO - ******Login Passed********
+2022-11-10 14:51:11,168 - root - INFO - ******Login Passed********
+2022-11-10 14:51:11,168 - root - INFO - ******Login Passed********
+2022-11-10 14:51:11,168 - root - INFO - ******Login Passed********
+2022-11-10 14:51:11,168 - root - INFO - Login DDT test Passed...................
+2022-11-10 14:51:11,168 - root - INFO - Login DDT test Passed...................
+2022-11-10 14:51:11,168 - root - INFO - Login DDT test Passed...................
+2022-11-10 14:51:11,168 - root - INFO - Login DDT test Passed...................
+2022-11-10 14:51:27,342 - root - INFO - ****DDT is finished***********
+2022-11-10 14:51:27,342 - root - INFO - ****DDT is finished***********
+2022-11-10 14:51:27,342 - root - INFO - ****DDT is finished***********
+2022-11-10 14:51:27,342 - root - INFO - ****DDT is finished***********
+2022-11-10 14:51:27,348 - WDM - INFO - ====== WebDriver manager ======
+2022-11-10 14:51:27,348 - WDM - INFO - ====== WebDriver manager ======
+2022-11-10 14:51:27,348 - WDM - INFO - ====== WebDriver manager ======
+2022-11-10 14:51:27,348 - WDM - INFO - ====== WebDriver manager ======
+2022-11-10 14:51:27,774 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-10 14:51:27,774 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-10 14:51:27,774 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-10 14:51:27,774 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-10 14:51:28,198 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-10 14:51:28,198 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-10 14:51:28,198 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-10 14:51:28,198 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-10 14:51:29,383 - root - INFO - *********** Starting Test_004 Search Customer by Email*******
+2022-11-10 14:51:29,383 - root - INFO - *********** Starting Test_004 Search Customer by Email*******
+2022-11-10 14:51:29,383 - root - INFO - *********** Starting Test_004 Search Customer by Email*******
+2022-11-10 14:51:29,383 - root - INFO - *********** Starting Test_004 Search Customer by Email*******
+2022-11-10 14:51:32,853 - root - INFO - *************Login Passed ***************
+2022-11-10 14:51:32,853 - root - INFO - *************Login Passed ***************
+2022-11-10 14:51:32,853 - root - INFO - *************Login Passed ***************
+2022-11-10 14:51:32,853 - root - INFO - *************Login Passed ***************
+2022-11-10 14:51:32,853 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-10 14:51:32,853 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-10 14:51:32,853 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-10 14:51:32,853 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-10 14:51:35,996 - root - INFO - ********* Searching customer by Email *********
+2022-11-10 14:51:35,996 - root - INFO - ********* Searching customer by Email *********
+2022-11-10 14:51:35,996 - root - INFO - ********* Searching customer by Email *********
+2022-11-10 14:51:35,996 - root - INFO - ********* Searching customer by Email *********
+2022-11-10 14:51:43,231 - root - INFO - *********** Test Search customer by Email Passed *************
+2022-11-10 14:51:43,231 - root - INFO - *********** Test Search customer by Email Passed *************
+2022-11-10 14:51:43,231 - root - INFO - *********** Test Search customer by Email Passed *************
+2022-11-10 14:51:43,231 - root - INFO - *********** Test Search customer by Email Passed *************
+2022-11-10 14:51:43,231 - WDM - INFO - ====== WebDriver manager ======
+2022-11-10 14:51:43,231 - WDM - INFO - ====== WebDriver manager ======
+2022-11-10 14:51:43,231 - WDM - INFO - ====== WebDriver manager ======
+2022-11-10 14:51:43,231 - WDM - INFO - ====== WebDriver manager ======
+2022-11-10 14:51:43,643 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-10 14:51:43,643 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-10 14:51:43,643 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-10 14:51:43,643 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-10 14:51:44,086 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-10 14:51:44,086 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-10 14:51:44,086 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-10 14:51:44,086 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-10 14:51:45,345 - root - INFO - *********** Starting Test_004 Search Customer ny Name*******
+2022-11-10 14:51:45,345 - root - INFO - *********** Starting Test_004 Search Customer ny Name*******
+2022-11-10 14:51:45,345 - root - INFO - *********** Starting Test_004 Search Customer ny Name*******
+2022-11-10 14:51:45,345 - root - INFO - *********** Starting Test_004 Search Customer ny Name*******
+2022-11-10 14:51:47,751 - root - INFO - *************Login Passed ***************
+2022-11-10 14:51:47,751 - root - INFO - *************Login Passed ***************
+2022-11-10 14:51:47,751 - root - INFO - *************Login Passed ***************
+2022-11-10 14:51:47,751 - root - INFO - *************Login Passed ***************
+2022-11-10 14:51:47,751 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-10 14:51:47,751 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-10 14:51:47,751 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-10 14:51:47,751 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-10 14:51:50,571 - root - INFO - ********* Searching customer by Name *********
+2022-11-10 14:51:50,571 - root - INFO - ********* Searching customer by Name *********
+2022-11-10 14:51:50,571 - root - INFO - ********* Searching customer by Name *********
+2022-11-10 14:51:50,571 - root - INFO - ********* Searching customer by Name *********
+2022-11-10 14:51:58,109 - root - ERROR - ##### Test Search customer by Name Failed ############
+2022-11-10 14:51:58,109 - root - ERROR - ##### Test Search customer by Name Failed ############
+2022-11-10 14:51:58,109 - root - ERROR - ##### Test Search customer by Name Failed ############
+2022-11-10 14:51:58,109 - root - ERROR - ##### Test Search customer by Name Failed ############
+2022-11-15 13:57:12,091 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 13:57:12,091 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 13:57:12,091 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 13:57:12,091 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 13:57:13,006 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 13:57:13,006 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 13:57:13,006 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 13:57:13,006 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 13:57:13,609 - WDM - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/107.0.5304.62/chromedriver_win32.zip
+2022-11-15 13:57:13,609 - WDM - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/107.0.5304.62/chromedriver_win32.zip
+2022-11-15 13:57:13,609 - WDM - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/107.0.5304.62/chromedriver_win32.zip
+2022-11-15 13:57:13,609 - WDM - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/107.0.5304.62/chromedriver_win32.zip
+2022-11-15 13:57:14,493 - WDM - INFO - Driver has been saved in cache [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304]
+2022-11-15 13:57:14,493 - WDM - INFO - Driver has been saved in cache [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304]
+2022-11-15 13:57:14,493 - WDM - INFO - Driver has been saved in cache [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304]
+2022-11-15 13:57:14,493 - WDM - INFO - Driver has been saved in cache [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304]
+2022-11-15 13:57:16,067 - root - INFO - **********Test_001_Login************
+2022-11-15 13:57:16,067 - root - INFO - **********Test_001_Login************
+2022-11-15 13:57:16,067 - root - INFO - **********Test_001_Login************
+2022-11-15 13:57:16,067 - root - INFO - **********Test_001_Login************
+2022-11-15 13:57:16,067 - root - INFO - ***************Verifying HomePage Title**************
+2022-11-15 13:57:16,067 - root - INFO - ***************Verifying HomePage Title**************
+2022-11-15 13:57:16,067 - root - INFO - ***************Verifying HomePage Title**************
+2022-11-15 13:57:16,067 - root - INFO - ***************Verifying HomePage Title**************
+2022-11-15 13:57:18,505 - root - INFO - *************Verify Homepage Passed ***************
+2022-11-15 13:57:18,505 - root - INFO - *************Verify Homepage Passed ***************
+2022-11-15 13:57:18,505 - root - INFO - *************Verify Homepage Passed ***************
+2022-11-15 13:57:18,505 - root - INFO - *************Verify Homepage Passed ***************
+2022-11-15 13:57:18,518 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 13:57:18,518 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 13:57:18,518 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 13:57:18,518 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 13:57:19,244 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 13:57:19,244 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 13:57:19,244 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 13:57:19,244 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 13:57:19,959 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 13:57:19,959 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 13:57:19,959 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 13:57:19,959 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 13:57:21,212 - root - INFO - **********Test_001_Login************
+2022-11-15 13:57:21,212 - root - INFO - **********Test_001_Login************
+2022-11-15 13:57:21,212 - root - INFO - **********Test_001_Login************
+2022-11-15 13:57:21,212 - root - INFO - **********Test_001_Login************
+2022-11-15 13:57:21,213 - root - INFO - ***************Login test**************
+2022-11-15 13:57:21,213 - root - INFO - ***************Login test**************
+2022-11-15 13:57:21,213 - root - INFO - ***************Login test**************
+2022-11-15 13:57:21,213 - root - INFO - ***************Login test**************
+2022-11-15 13:57:25,441 - root - INFO - *************Login Passed ***************
+2022-11-15 13:57:25,441 - root - INFO - *************Login Passed ***************
+2022-11-15 13:57:25,441 - root - INFO - *************Login Passed ***************
+2022-11-15 13:57:25,441 - root - INFO - *************Login Passed ***************
+2022-11-15 13:57:42,309 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 13:57:42,309 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 13:57:42,309 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 13:57:42,309 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 13:57:42,718 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 13:57:42,718 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 13:57:42,718 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 13:57:42,718 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 13:57:43,177 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 13:57:43,177 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 13:57:43,177 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 13:57:43,177 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 13:57:44,363 - root - INFO - **********Test_002_Login_DDT************
+2022-11-15 13:57:44,363 - root - INFO - **********Test_002_Login_DDT************
+2022-11-15 13:57:44,363 - root - INFO - **********Test_002_Login_DDT************
+2022-11-15 13:57:44,363 - root - INFO - **********Test_002_Login_DDT************
+2022-11-15 13:57:44,364 - root - INFO - ***************Login test**************
+2022-11-15 13:57:44,364 - root - INFO - ***************Login test**************
+2022-11-15 13:57:44,364 - root - INFO - ***************Login test**************
+2022-11-15 13:57:44,364 - root - INFO - ***************Login test**************
+2022-11-15 13:57:52,255 - root - INFO - *************Login Passed ***************
+2022-11-15 13:57:52,255 - root - INFO - *************Login Passed ***************
+2022-11-15 13:57:52,255 - root - INFO - *************Login Passed ***************
+2022-11-15 13:57:52,255 - root - INFO - *************Login Passed ***************
+2022-11-15 13:57:58,206 - root - INFO - ******Login Passed********
+2022-11-15 13:57:58,206 - root - INFO - ******Login Passed********
+2022-11-15 13:57:58,206 - root - INFO - ******Login Passed********
+2022-11-15 13:57:58,206 - root - INFO - ******Login Passed********
+2022-11-15 13:58:03,577 - root - INFO - ******Login Passed********
+2022-11-15 13:58:03,577 - root - INFO - ******Login Passed********
+2022-11-15 13:58:03,577 - root - INFO - ******Login Passed********
+2022-11-15 13:58:03,577 - root - INFO - ******Login Passed********
+2022-11-15 13:58:08,940 - root - INFO - ******Login Passed********
+2022-11-15 13:58:08,940 - root - INFO - ******Login Passed********
+2022-11-15 13:58:08,940 - root - INFO - ******Login Passed********
+2022-11-15 13:58:08,940 - root - INFO - ******Login Passed********
+2022-11-15 13:58:08,940 - root - INFO - Login DDT test Passed...................
+2022-11-15 13:58:08,940 - root - INFO - Login DDT test Passed...................
+2022-11-15 13:58:08,940 - root - INFO - Login DDT test Passed...................
+2022-11-15 13:58:08,940 - root - INFO - Login DDT test Passed...................
+2022-11-15 13:58:25,176 - root - INFO - ****DDT is finished***********
+2022-11-15 13:58:25,176 - root - INFO - ****DDT is finished***********
+2022-11-15 13:58:25,176 - root - INFO - ****DDT is finished***********
+2022-11-15 13:58:25,176 - root - INFO - ****DDT is finished***********
+2022-11-15 13:58:25,184 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 13:58:25,184 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 13:58:25,184 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 13:58:25,184 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 13:58:25,575 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 13:58:25,575 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 13:58:25,575 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 13:58:25,575 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 13:58:25,991 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 13:58:25,991 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 13:58:25,991 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 13:58:25,991 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 13:58:27,175 - root - INFO - *********** Starting Test_004 Search Customer by Email*******
+2022-11-15 13:58:27,175 - root - INFO - *********** Starting Test_004 Search Customer by Email*******
+2022-11-15 13:58:27,175 - root - INFO - *********** Starting Test_004 Search Customer by Email*******
+2022-11-15 13:58:27,175 - root - INFO - *********** Starting Test_004 Search Customer by Email*******
+2022-11-15 13:58:30,000 - root - INFO - *************Login Passed ***************
+2022-11-15 13:58:30,000 - root - INFO - *************Login Passed ***************
+2022-11-15 13:58:30,000 - root - INFO - *************Login Passed ***************
+2022-11-15 13:58:30,000 - root - INFO - *************Login Passed ***************
+2022-11-15 13:58:30,000 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-15 13:58:30,000 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-15 13:58:30,000 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-15 13:58:30,000 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-15 13:58:33,372 - root - INFO - ********* Searching customer by Email *********
+2022-11-15 13:58:33,372 - root - INFO - ********* Searching customer by Email *********
+2022-11-15 13:58:33,372 - root - INFO - ********* Searching customer by Email *********
+2022-11-15 13:58:33,372 - root - INFO - ********* Searching customer by Email *********
+2022-11-15 13:58:53,582 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 13:58:53,582 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 13:58:53,582 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 13:58:53,582 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 13:58:53,972 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 13:58:53,972 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 13:58:53,972 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 13:58:53,972 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 13:58:54,399 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 13:58:54,399 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 13:58:54,399 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 13:58:54,399 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 13:58:55,575 - root - INFO - *********** Starting Test_004 Search Customer ny Name*******
+2022-11-15 13:58:55,575 - root - INFO - *********** Starting Test_004 Search Customer ny Name*******
+2022-11-15 13:58:55,575 - root - INFO - *********** Starting Test_004 Search Customer ny Name*******
+2022-11-15 13:58:55,575 - root - INFO - *********** Starting Test_004 Search Customer ny Name*******
+2022-11-15 13:58:58,019 - root - INFO - *************Login Passed ***************
+2022-11-15 13:58:58,019 - root - INFO - *************Login Passed ***************
+2022-11-15 13:58:58,019 - root - INFO - *************Login Passed ***************
+2022-11-15 13:58:58,019 - root - INFO - *************Login Passed ***************
+2022-11-15 13:58:58,020 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-15 13:58:58,020 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-15 13:58:58,020 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-15 13:58:58,020 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-15 13:59:00,841 - root - INFO - ********* Searching customer by Name *********
+2022-11-15 13:59:00,841 - root - INFO - ********* Searching customer by Name *********
+2022-11-15 13:59:00,841 - root - INFO - ********* Searching customer by Name *********
+2022-11-15 13:59:00,841 - root - INFO - ********* Searching customer by Name *********
+2022-11-15 14:08:45,689 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:08:45,689 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:08:45,689 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:08:45,689 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:08:46,070 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:08:46,070 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:08:46,070 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:08:46,070 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:08:46,524 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:08:46,524 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:08:46,524 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:08:46,524 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:08:47,833 - root - INFO - **********Test_001_Login************
+2022-11-15 14:08:47,833 - root - INFO - **********Test_001_Login************
+2022-11-15 14:08:47,833 - root - INFO - **********Test_001_Login************
+2022-11-15 14:08:47,833 - root - INFO - **********Test_001_Login************
+2022-11-15 14:08:47,834 - root - INFO - ***************Verifying HomePage Title**************
+2022-11-15 14:08:47,834 - root - INFO - ***************Verifying HomePage Title**************
+2022-11-15 14:08:47,834 - root - INFO - ***************Verifying HomePage Title**************
+2022-11-15 14:08:47,834 - root - INFO - ***************Verifying HomePage Title**************
+2022-11-15 14:09:05,227 - root - INFO - *************Verify Homepage Passed ***************
+2022-11-15 14:09:05,227 - root - INFO - *************Verify Homepage Passed ***************
+2022-11-15 14:09:05,227 - root - INFO - *************Verify Homepage Passed ***************
+2022-11-15 14:09:05,227 - root - INFO - *************Verify Homepage Passed ***************
+2022-11-15 14:09:05,235 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:09:05,235 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:09:05,235 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:09:05,235 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:09:05,602 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:09:05,602 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:09:05,602 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:09:05,602 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:09:06,041 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:09:06,041 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:09:06,041 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:09:06,041 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:09:07,223 - root - INFO - **********Test_001_Login************
+2022-11-15 14:09:07,223 - root - INFO - **********Test_001_Login************
+2022-11-15 14:09:07,223 - root - INFO - **********Test_001_Login************
+2022-11-15 14:09:07,223 - root - INFO - **********Test_001_Login************
+2022-11-15 14:09:07,223 - root - INFO - ***************Login test**************
+2022-11-15 14:09:07,223 - root - INFO - ***************Login test**************
+2022-11-15 14:09:07,223 - root - INFO - ***************Login test**************
+2022-11-15 14:09:07,223 - root - INFO - ***************Login test**************
+2022-11-15 14:09:10,906 - root - INFO - *************Login Passed ***************
+2022-11-15 14:09:10,906 - root - INFO - *************Login Passed ***************
+2022-11-15 14:09:10,906 - root - INFO - *************Login Passed ***************
+2022-11-15 14:09:10,906 - root - INFO - *************Login Passed ***************
+2022-11-15 14:09:28,009 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:09:28,009 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:09:28,009 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:09:28,009 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:09:28,376 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:09:28,376 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:09:28,376 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:09:28,376 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:09:28,820 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:09:28,820 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:09:28,820 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:09:28,820 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:09:29,997 - root - INFO - **********Test_002_Login_DDT************
+2022-11-15 14:09:29,997 - root - INFO - **********Test_002_Login_DDT************
+2022-11-15 14:09:29,997 - root - INFO - **********Test_002_Login_DDT************
+2022-11-15 14:09:29,997 - root - INFO - **********Test_002_Login_DDT************
+2022-11-15 14:09:29,998 - root - INFO - ***************Login test**************
+2022-11-15 14:09:29,998 - root - INFO - ***************Login test**************
+2022-11-15 14:09:29,998 - root - INFO - ***************Login test**************
+2022-11-15 14:09:29,998 - root - INFO - ***************Login test**************
+2022-11-15 14:09:40,277 - root - INFO - *************Login Passed ***************
+2022-11-15 14:09:40,277 - root - INFO - *************Login Passed ***************
+2022-11-15 14:09:40,277 - root - INFO - *************Login Passed ***************
+2022-11-15 14:09:40,277 - root - INFO - *************Login Passed ***************
+2022-11-15 14:09:46,246 - root - INFO - ******Login Passed********
+2022-11-15 14:09:46,246 - root - INFO - ******Login Passed********
+2022-11-15 14:09:46,246 - root - INFO - ******Login Passed********
+2022-11-15 14:09:46,246 - root - INFO - ******Login Passed********
+2022-11-15 14:09:51,632 - root - INFO - ******Login Passed********
+2022-11-15 14:09:51,632 - root - INFO - ******Login Passed********
+2022-11-15 14:09:51,632 - root - INFO - ******Login Passed********
+2022-11-15 14:09:51,632 - root - INFO - ******Login Passed********
+2022-11-15 14:09:57,029 - root - INFO - ******Login Passed********
+2022-11-15 14:09:57,029 - root - INFO - ******Login Passed********
+2022-11-15 14:09:57,029 - root - INFO - ******Login Passed********
+2022-11-15 14:09:57,029 - root - INFO - ******Login Passed********
+2022-11-15 14:09:57,029 - root - INFO - Login DDT test Passed...................
+2022-11-15 14:09:57,029 - root - INFO - Login DDT test Passed...................
+2022-11-15 14:09:57,029 - root - INFO - Login DDT test Passed...................
+2022-11-15 14:09:57,029 - root - INFO - Login DDT test Passed...................
+2022-11-15 14:10:13,301 - root - INFO - ****DDT is finished***********
+2022-11-15 14:10:13,301 - root - INFO - ****DDT is finished***********
+2022-11-15 14:10:13,301 - root - INFO - ****DDT is finished***********
+2022-11-15 14:10:13,301 - root - INFO - ****DDT is finished***********
+2022-11-15 14:10:13,303 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:10:13,303 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:10:13,303 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:10:13,303 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:10:13,681 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:10:13,681 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:10:13,681 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:10:13,681 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:10:14,135 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:10:14,135 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:10:14,135 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:10:14,135 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:10:15,353 - root - INFO - *********** Starting Test_004 Search Customer by Email*******
+2022-11-15 14:10:15,353 - root - INFO - *********** Starting Test_004 Search Customer by Email*******
+2022-11-15 14:10:15,353 - root - INFO - *********** Starting Test_004 Search Customer by Email*******
+2022-11-15 14:10:15,353 - root - INFO - *********** Starting Test_004 Search Customer by Email*******
+2022-11-15 14:10:17,671 - root - INFO - *************Login Passed ***************
+2022-11-15 14:10:17,671 - root - INFO - *************Login Passed ***************
+2022-11-15 14:10:17,671 - root - INFO - *************Login Passed ***************
+2022-11-15 14:10:17,671 - root - INFO - *************Login Passed ***************
+2022-11-15 14:10:17,671 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-15 14:10:17,671 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-15 14:10:17,671 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-15 14:10:17,671 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-15 14:10:21,026 - root - INFO - ********* Searching customer by Email *********
+2022-11-15 14:10:21,026 - root - INFO - ********* Searching customer by Email *********
+2022-11-15 14:10:21,026 - root - INFO - ********* Searching customer by Email *********
+2022-11-15 14:10:21,026 - root - INFO - ********* Searching customer by Email *********
+2022-11-15 14:10:28,255 - root - INFO - *********** Test Search customer by Email Passed *************
+2022-11-15 14:10:28,255 - root - INFO - *********** Test Search customer by Email Passed *************
+2022-11-15 14:10:28,255 - root - INFO - *********** Test Search customer by Email Passed *************
+2022-11-15 14:10:28,255 - root - INFO - *********** Test Search customer by Email Passed *************
+2022-11-15 14:10:28,338 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:10:28,338 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:10:28,338 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:10:28,338 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:10:28,983 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:10:28,983 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:10:28,983 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:10:28,983 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:10:29,648 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:10:29,648 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:10:29,648 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:10:29,648 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:10:30,820 - root - INFO - *********** Starting Test_004 Search Customer ny Name*******
+2022-11-15 14:10:30,820 - root - INFO - *********** Starting Test_004 Search Customer ny Name*******
+2022-11-15 14:10:30,820 - root - INFO - *********** Starting Test_004 Search Customer ny Name*******
+2022-11-15 14:10:30,820 - root - INFO - *********** Starting Test_004 Search Customer ny Name*******
+2022-11-15 14:10:33,560 - root - INFO - *************Login Passed ***************
+2022-11-15 14:10:33,560 - root - INFO - *************Login Passed ***************
+2022-11-15 14:10:33,560 - root - INFO - *************Login Passed ***************
+2022-11-15 14:10:33,560 - root - INFO - *************Login Passed ***************
+2022-11-15 14:10:33,560 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-15 14:10:33,560 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-15 14:10:33,560 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-15 14:10:33,560 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-15 14:10:36,387 - root - INFO - ********* Searching customer by Name *********
+2022-11-15 14:10:36,387 - root - INFO - ********* Searching customer by Name *********
+2022-11-15 14:10:36,387 - root - INFO - ********* Searching customer by Name *********
+2022-11-15 14:10:36,387 - root - INFO - ********* Searching customer by Name *********
+2022-11-15 14:10:43,900 - root - ERROR - ##### Test Search customer by Name Failed ############
+2022-11-15 14:10:43,900 - root - ERROR - ##### Test Search customer by Name Failed ############
+2022-11-15 14:10:43,900 - root - ERROR - ##### Test Search customer by Name Failed ############
+2022-11-15 14:10:43,900 - root - ERROR - ##### Test Search customer by Name Failed ############
+2022-11-15 14:18:34,379 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:18:34,379 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:18:34,379 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:18:34,379 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:18:34,741 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:18:34,741 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:18:34,741 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:18:34,741 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:18:35,230 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:18:35,230 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:18:35,230 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:18:35,230 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:18:36,399 - root - INFO - **********Test_001_Login************
+2022-11-15 14:18:36,399 - root - INFO - **********Test_001_Login************
+2022-11-15 14:18:36,399 - root - INFO - **********Test_001_Login************
+2022-11-15 14:18:36,399 - root - INFO - **********Test_001_Login************
+2022-11-15 14:18:36,400 - root - INFO - ***************Verifying HomePage Title**************
+2022-11-15 14:18:36,400 - root - INFO - ***************Verifying HomePage Title**************
+2022-11-15 14:18:36,400 - root - INFO - ***************Verifying HomePage Title**************
+2022-11-15 14:18:36,400 - root - INFO - ***************Verifying HomePage Title**************
+2022-11-15 14:18:37,676 - root - INFO - *************Verify Homepage Passed ***************
+2022-11-15 14:18:37,676 - root - INFO - *************Verify Homepage Passed ***************
+2022-11-15 14:18:37,676 - root - INFO - *************Verify Homepage Passed ***************
+2022-11-15 14:18:37,676 - root - INFO - *************Verify Homepage Passed ***************
+2022-11-15 14:18:37,687 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:18:37,687 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:18:37,687 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:18:37,687 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:18:38,381 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:18:38,381 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:18:38,381 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:18:38,381 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:18:38,988 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:18:38,988 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:18:38,988 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:18:38,988 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:18:40,166 - root - INFO - **********Test_001_Login************
+2022-11-15 14:18:40,166 - root - INFO - **********Test_001_Login************
+2022-11-15 14:18:40,166 - root - INFO - **********Test_001_Login************
+2022-11-15 14:18:40,166 - root - INFO - **********Test_001_Login************
+2022-11-15 14:18:40,166 - root - INFO - ***************Login test**************
+2022-11-15 14:18:40,166 - root - INFO - ***************Login test**************
+2022-11-15 14:18:40,166 - root - INFO - ***************Login test**************
+2022-11-15 14:18:40,166 - root - INFO - ***************Login test**************
+2022-11-15 14:18:44,821 - root - INFO - *************Login Passed ***************
+2022-11-15 14:18:44,821 - root - INFO - *************Login Passed ***************
+2022-11-15 14:18:44,821 - root - INFO - *************Login Passed ***************
+2022-11-15 14:18:44,821 - root - INFO - *************Login Passed ***************
+2022-11-15 14:19:01,644 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:19:01,644 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:19:01,644 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:19:01,644 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:19:01,999 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:19:01,999 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:19:01,999 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:19:01,999 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:19:02,422 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:19:02,422 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:19:02,422 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:19:02,422 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:19:03,604 - root - INFO - **********Test_002_Login_DDT************
+2022-11-15 14:19:03,604 - root - INFO - **********Test_002_Login_DDT************
+2022-11-15 14:19:03,604 - root - INFO - **********Test_002_Login_DDT************
+2022-11-15 14:19:03,604 - root - INFO - **********Test_002_Login_DDT************
+2022-11-15 14:19:03,604 - root - INFO - ***************Login test**************
+2022-11-15 14:19:03,604 - root - INFO - ***************Login test**************
+2022-11-15 14:19:03,604 - root - INFO - ***************Login test**************
+2022-11-15 14:19:03,604 - root - INFO - ***************Login test**************
+2022-11-15 14:19:10,916 - root - INFO - *************Login Passed ***************
+2022-11-15 14:19:10,916 - root - INFO - *************Login Passed ***************
+2022-11-15 14:19:10,916 - root - INFO - *************Login Passed ***************
+2022-11-15 14:19:10,916 - root - INFO - *************Login Passed ***************
+2022-11-15 14:19:16,959 - root - INFO - ******Login Passed********
+2022-11-15 14:19:16,959 - root - INFO - ******Login Passed********
+2022-11-15 14:19:16,959 - root - INFO - ******Login Passed********
+2022-11-15 14:19:16,959 - root - INFO - ******Login Passed********
+2022-11-15 14:19:22,309 - root - INFO - ******Login Passed********
+2022-11-15 14:19:22,309 - root - INFO - ******Login Passed********
+2022-11-15 14:19:22,309 - root - INFO - ******Login Passed********
+2022-11-15 14:19:22,309 - root - INFO - ******Login Passed********
+2022-11-15 14:19:27,712 - root - INFO - ******Login Passed********
+2022-11-15 14:19:27,712 - root - INFO - ******Login Passed********
+2022-11-15 14:19:27,712 - root - INFO - ******Login Passed********
+2022-11-15 14:19:27,712 - root - INFO - ******Login Passed********
+2022-11-15 14:19:27,712 - root - INFO - Login DDT test Passed...................
+2022-11-15 14:19:27,712 - root - INFO - Login DDT test Passed...................
+2022-11-15 14:19:27,712 - root - INFO - Login DDT test Passed...................
+2022-11-15 14:19:27,712 - root - INFO - Login DDT test Passed...................
+2022-11-15 14:19:43,969 - root - INFO - ****DDT is finished***********
+2022-11-15 14:19:43,969 - root - INFO - ****DDT is finished***********
+2022-11-15 14:19:43,969 - root - INFO - ****DDT is finished***********
+2022-11-15 14:19:43,969 - root - INFO - ****DDT is finished***********
+2022-11-15 14:19:43,977 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:19:43,977 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:19:43,977 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:19:43,977 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:19:44,346 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:19:44,346 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:19:44,346 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:19:44,346 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:19:44,774 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:19:44,774 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:19:44,774 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:19:44,774 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:19:45,964 - root - INFO - *********** Starting Test_004 Search Customer by Email*******
+2022-11-15 14:19:45,964 - root - INFO - *********** Starting Test_004 Search Customer by Email*******
+2022-11-15 14:19:45,964 - root - INFO - *********** Starting Test_004 Search Customer by Email*******
+2022-11-15 14:19:45,964 - root - INFO - *********** Starting Test_004 Search Customer by Email*******
+2022-11-15 14:19:48,672 - root - INFO - *************Login Passed ***************
+2022-11-15 14:19:48,672 - root - INFO - *************Login Passed ***************
+2022-11-15 14:19:48,672 - root - INFO - *************Login Passed ***************
+2022-11-15 14:19:48,672 - root - INFO - *************Login Passed ***************
+2022-11-15 14:19:48,672 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-15 14:19:48,672 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-15 14:19:48,672 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-15 14:19:48,672 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-15 14:19:52,124 - root - INFO - ********* Searching customer by Email *********
+2022-11-15 14:19:52,124 - root - INFO - ********* Searching customer by Email *********
+2022-11-15 14:19:52,124 - root - INFO - ********* Searching customer by Email *********
+2022-11-15 14:19:52,124 - root - INFO - ********* Searching customer by Email *********
+2022-11-15 14:19:59,316 - root - INFO - *********** Test Search customer by Email Passed *************
+2022-11-15 14:19:59,316 - root - INFO - *********** Test Search customer by Email Passed *************
+2022-11-15 14:19:59,316 - root - INFO - *********** Test Search customer by Email Passed *************
+2022-11-15 14:19:59,316 - root - INFO - *********** Test Search customer by Email Passed *************
+2022-11-15 14:20:15,605 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:20:15,605 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:20:15,605 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:20:15,605 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:20:15,964 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:20:15,964 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:20:15,964 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:20:15,964 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:20:16,412 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:20:16,412 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:20:16,412 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:20:16,412 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:20:17,602 - root - INFO - *********** Starting Test_004 Search Customer ny Name*******
+2022-11-15 14:20:17,602 - root - INFO - *********** Starting Test_004 Search Customer ny Name*******
+2022-11-15 14:20:17,602 - root - INFO - *********** Starting Test_004 Search Customer ny Name*******
+2022-11-15 14:20:17,602 - root - INFO - *********** Starting Test_004 Search Customer ny Name*******
+2022-11-15 14:20:20,685 - root - INFO - *************Login Passed ***************
+2022-11-15 14:20:20,685 - root - INFO - *************Login Passed ***************
+2022-11-15 14:20:20,685 - root - INFO - *************Login Passed ***************
+2022-11-15 14:20:20,685 - root - INFO - *************Login Passed ***************
+2022-11-15 14:20:20,685 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-15 14:20:20,685 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-15 14:20:20,685 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-15 14:20:20,685 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-15 14:20:25,195 - root - INFO - ********* Searching customer by Name *********
+2022-11-15 14:20:25,195 - root - INFO - ********* Searching customer by Name *********
+2022-11-15 14:20:25,195 - root - INFO - ********* Searching customer by Name *********
+2022-11-15 14:20:25,195 - root - INFO - ********* Searching customer by Name *********
+2022-11-15 14:20:32,730 - root - ERROR - ##### Test Search customer by Name Failed ############
+2022-11-15 14:20:32,730 - root - ERROR - ##### Test Search customer by Name Failed ############
+2022-11-15 14:20:32,730 - root - ERROR - ##### Test Search customer by Name Failed ############
+2022-11-15 14:20:32,730 - root - ERROR - ##### Test Search customer by Name Failed ############
+2022-11-15 14:44:39,383 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:44:39,383 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:44:39,383 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:44:39,383 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:44:39,840 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:44:39,840 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:44:39,840 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:44:39,840 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:44:40,359 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:44:40,359 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:44:40,359 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:44:40,359 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:44:41,645 - root - INFO - **********Test_001_Login************
+2022-11-15 14:44:41,645 - root - INFO - **********Test_001_Login************
+2022-11-15 14:44:41,645 - root - INFO - **********Test_001_Login************
+2022-11-15 14:44:41,645 - root - INFO - **********Test_001_Login************
+2022-11-15 14:44:41,645 - root - INFO - ***************Verifying HomePage Title**************
+2022-11-15 14:44:41,645 - root - INFO - ***************Verifying HomePage Title**************
+2022-11-15 14:44:41,645 - root - INFO - ***************Verifying HomePage Title**************
+2022-11-15 14:44:41,645 - root - INFO - ***************Verifying HomePage Title**************
+2022-11-15 14:44:59,221 - root - INFO - *************Verify Homepage Passed ***************
+2022-11-15 14:44:59,221 - root - INFO - *************Verify Homepage Passed ***************
+2022-11-15 14:44:59,221 - root - INFO - *************Verify Homepage Passed ***************
+2022-11-15 14:44:59,221 - root - INFO - *************Verify Homepage Passed ***************
+2022-11-15 14:44:59,221 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:44:59,221 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:44:59,221 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:44:59,221 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:44:59,649 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:44:59,649 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:44:59,649 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:44:59,649 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:45:00,105 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:45:00,105 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:45:00,105 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:45:00,105 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:45:01,317 - root - INFO - **********Test_001_Login************
+2022-11-15 14:45:01,317 - root - INFO - **********Test_001_Login************
+2022-11-15 14:45:01,317 - root - INFO - **********Test_001_Login************
+2022-11-15 14:45:01,317 - root - INFO - **********Test_001_Login************
+2022-11-15 14:45:01,318 - root - INFO - ***************Login test**************
+2022-11-15 14:45:01,318 - root - INFO - ***************Login test**************
+2022-11-15 14:45:01,318 - root - INFO - ***************Login test**************
+2022-11-15 14:45:01,318 - root - INFO - ***************Login test**************
+2022-11-15 14:45:04,663 - root - INFO - *************Login Passed ***************
+2022-11-15 14:45:04,663 - root - INFO - *************Login Passed ***************
+2022-11-15 14:45:04,663 - root - INFO - *************Login Passed ***************
+2022-11-15 14:45:04,663 - root - INFO - *************Login Passed ***************
+2022-11-15 14:45:21,690 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:45:21,690 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:45:21,690 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:45:21,690 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:45:22,103 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:45:22,103 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:45:22,103 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:45:22,103 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:45:22,709 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:45:22,709 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:45:22,709 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:45:22,709 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:45:23,907 - root - INFO - **********Test_002_Login_DDT************
+2022-11-15 14:45:23,907 - root - INFO - **********Test_002_Login_DDT************
+2022-11-15 14:45:23,907 - root - INFO - **********Test_002_Login_DDT************
+2022-11-15 14:45:23,907 - root - INFO - **********Test_002_Login_DDT************
+2022-11-15 14:45:23,908 - root - INFO - ***************Login test**************
+2022-11-15 14:45:23,908 - root - INFO - ***************Login test**************
+2022-11-15 14:45:23,908 - root - INFO - ***************Login test**************
+2022-11-15 14:45:23,908 - root - INFO - ***************Login test**************
+2022-11-15 14:45:32,439 - root - INFO - *************Login Passed ***************
+2022-11-15 14:45:32,439 - root - INFO - *************Login Passed ***************
+2022-11-15 14:45:32,439 - root - INFO - *************Login Passed ***************
+2022-11-15 14:45:32,439 - root - INFO - *************Login Passed ***************
+2022-11-15 14:45:38,597 - root - INFO - ******Login Passed********
+2022-11-15 14:45:38,597 - root - INFO - ******Login Passed********
+2022-11-15 14:45:38,597 - root - INFO - ******Login Passed********
+2022-11-15 14:45:38,597 - root - INFO - ******Login Passed********
+2022-11-15 14:45:44,011 - root - INFO - ******Login Passed********
+2022-11-15 14:45:44,011 - root - INFO - ******Login Passed********
+2022-11-15 14:45:44,011 - root - INFO - ******Login Passed********
+2022-11-15 14:45:44,011 - root - INFO - ******Login Passed********
+2022-11-15 14:45:49,813 - root - INFO - ******Login Passed********
+2022-11-15 14:45:49,813 - root - INFO - ******Login Passed********
+2022-11-15 14:45:49,813 - root - INFO - ******Login Passed********
+2022-11-15 14:45:49,813 - root - INFO - ******Login Passed********
+2022-11-15 14:45:49,813 - root - INFO - Login DDT test Passed...................
+2022-11-15 14:45:49,813 - root - INFO - Login DDT test Passed...................
+2022-11-15 14:45:49,813 - root - INFO - Login DDT test Passed...................
+2022-11-15 14:45:49,813 - root - INFO - Login DDT test Passed...................
+2022-11-15 14:46:06,020 - root - INFO - ****DDT is finished***********
+2022-11-15 14:46:06,020 - root - INFO - ****DDT is finished***********
+2022-11-15 14:46:06,020 - root - INFO - ****DDT is finished***********
+2022-11-15 14:46:06,020 - root - INFO - ****DDT is finished***********
+2022-11-15 14:46:06,036 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:46:06,036 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:46:06,036 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:46:06,036 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:46:06,448 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:46:06,448 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:46:06,448 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:46:06,448 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:46:06,887 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:46:06,887 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:46:06,887 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:46:06,887 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:46:08,070 - root - INFO - *********** Starting Test_004 Search Customer by Email*******
+2022-11-15 14:46:08,070 - root - INFO - *********** Starting Test_004 Search Customer by Email*******
+2022-11-15 14:46:08,070 - root - INFO - *********** Starting Test_004 Search Customer by Email*******
+2022-11-15 14:46:08,070 - root - INFO - *********** Starting Test_004 Search Customer by Email*******
+2022-11-15 14:46:11,232 - root - INFO - *************Login Passed ***************
+2022-11-15 14:46:11,232 - root - INFO - *************Login Passed ***************
+2022-11-15 14:46:11,232 - root - INFO - *************Login Passed ***************
+2022-11-15 14:46:11,232 - root - INFO - *************Login Passed ***************
+2022-11-15 14:46:11,232 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-15 14:46:11,232 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-15 14:46:11,232 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-15 14:46:11,232 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-15 14:46:16,505 - root - INFO - ********* Searching customer by Email *********
+2022-11-15 14:46:16,505 - root - INFO - ********* Searching customer by Email *********
+2022-11-15 14:46:16,505 - root - INFO - ********* Searching customer by Email *********
+2022-11-15 14:46:16,505 - root - INFO - ********* Searching customer by Email *********
+2022-11-15 14:46:23,736 - root - INFO - *********** Test Search customer by Email Passed *************
+2022-11-15 14:46:23,736 - root - INFO - *********** Test Search customer by Email Passed *************
+2022-11-15 14:46:23,736 - root - INFO - *********** Test Search customer by Email Passed *************
+2022-11-15 14:46:23,736 - root - INFO - *********** Test Search customer by Email Passed *************
+2022-11-15 14:46:23,808 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:46:23,808 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:46:23,808 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:46:23,808 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:46:24,380 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:46:24,380 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:46:24,380 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:46:24,380 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:46:24,958 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:46:24,958 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:46:24,958 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:46:24,958 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:46:26,139 - root - INFO - *********** Starting Test_004 Search Customer ny Name*******
+2022-11-15 14:46:26,139 - root - INFO - *********** Starting Test_004 Search Customer ny Name*******
+2022-11-15 14:46:26,139 - root - INFO - *********** Starting Test_004 Search Customer ny Name*******
+2022-11-15 14:46:26,139 - root - INFO - *********** Starting Test_004 Search Customer ny Name*******
+2022-11-15 14:46:31,559 - root - INFO - *************Login Passed ***************
+2022-11-15 14:46:31,559 - root - INFO - *************Login Passed ***************
+2022-11-15 14:46:31,559 - root - INFO - *************Login Passed ***************
+2022-11-15 14:46:31,559 - root - INFO - *************Login Passed ***************
+2022-11-15 14:46:31,559 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-15 14:46:31,559 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-15 14:46:31,559 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-15 14:46:31,559 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-15 14:46:35,584 - root - INFO - ********* Searching customer by Name *********
+2022-11-15 14:46:35,584 - root - INFO - ********* Searching customer by Name *********
+2022-11-15 14:46:35,584 - root - INFO - ********* Searching customer by Name *********
+2022-11-15 14:46:35,584 - root - INFO - ********* Searching customer by Name *********
+2022-11-15 14:46:43,131 - root - ERROR - ##### Test Search customer by Name Failed ############
+2022-11-15 14:46:43,131 - root - ERROR - ##### Test Search customer by Name Failed ############
+2022-11-15 14:46:43,131 - root - ERROR - ##### Test Search customer by Name Failed ############
+2022-11-15 14:46:43,131 - root - ERROR - ##### Test Search customer by Name Failed ############
+2022-11-15 14:51:34,439 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:51:34,439 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:51:34,439 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:51:34,439 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:51:34,821 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:51:34,821 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:51:34,821 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:51:34,821 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:51:35,408 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:51:35,408 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:51:35,408 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:51:35,408 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:51:36,599 - root - INFO - **********Test_001_Login************
+2022-11-15 14:51:36,599 - root - INFO - **********Test_001_Login************
+2022-11-15 14:51:36,599 - root - INFO - **********Test_001_Login************
+2022-11-15 14:51:36,599 - root - INFO - **********Test_001_Login************
+2022-11-15 14:51:36,599 - root - INFO - ***************Verifying HomePage Title**************
+2022-11-15 14:51:36,599 - root - INFO - ***************Verifying HomePage Title**************
+2022-11-15 14:51:36,599 - root - INFO - ***************Verifying HomePage Title**************
+2022-11-15 14:51:36,599 - root - INFO - ***************Verifying HomePage Title**************
+2022-11-15 14:51:53,925 - root - INFO - *************Verify Homepage Passed ***************
+2022-11-15 14:51:53,925 - root - INFO - *************Verify Homepage Passed ***************
+2022-11-15 14:51:53,925 - root - INFO - *************Verify Homepage Passed ***************
+2022-11-15 14:51:53,925 - root - INFO - *************Verify Homepage Passed ***************
+2022-11-15 14:51:53,935 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:51:53,935 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:51:53,935 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:51:53,935 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:51:54,341 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:51:54,341 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:51:54,341 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:51:54,341 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:51:54,775 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:51:54,775 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:51:54,775 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:51:54,775 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:51:55,996 - root - INFO - **********Test_001_Login************
+2022-11-15 14:51:55,996 - root - INFO - **********Test_001_Login************
+2022-11-15 14:51:55,996 - root - INFO - **********Test_001_Login************
+2022-11-15 14:51:55,996 - root - INFO - **********Test_001_Login************
+2022-11-15 14:51:55,997 - root - INFO - ***************Login test**************
+2022-11-15 14:51:55,997 - root - INFO - ***************Login test**************
+2022-11-15 14:51:55,997 - root - INFO - ***************Login test**************
+2022-11-15 14:51:55,997 - root - INFO - ***************Login test**************
+2022-11-15 14:51:59,209 - root - INFO - *************Login Passed ***************
+2022-11-15 14:51:59,209 - root - INFO - *************Login Passed ***************
+2022-11-15 14:51:59,209 - root - INFO - *************Login Passed ***************
+2022-11-15 14:51:59,209 - root - INFO - *************Login Passed ***************
+2022-11-15 14:52:00,101 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:52:00,101 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:52:00,101 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:52:00,101 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:52:00,783 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:52:00,783 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:52:00,783 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:52:00,783 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:52:01,496 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:52:01,496 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:52:01,496 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:52:01,496 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:52:02,739 - root - INFO - **********Test_002_Login_DDT************
+2022-11-15 14:52:02,739 - root - INFO - **********Test_002_Login_DDT************
+2022-11-15 14:52:02,739 - root - INFO - **********Test_002_Login_DDT************
+2022-11-15 14:52:02,739 - root - INFO - **********Test_002_Login_DDT************
+2022-11-15 14:52:02,740 - root - INFO - ***************Login test**************
+2022-11-15 14:52:02,740 - root - INFO - ***************Login test**************
+2022-11-15 14:52:02,740 - root - INFO - ***************Login test**************
+2022-11-15 14:52:02,740 - root - INFO - ***************Login test**************
+2022-11-15 14:52:10,797 - root - INFO - *************Login Passed ***************
+2022-11-15 14:52:10,797 - root - INFO - *************Login Passed ***************
+2022-11-15 14:52:10,797 - root - INFO - *************Login Passed ***************
+2022-11-15 14:52:10,797 - root - INFO - *************Login Passed ***************
+2022-11-15 14:52:16,757 - root - INFO - ******Login Passed********
+2022-11-15 14:52:16,757 - root - INFO - ******Login Passed********
+2022-11-15 14:52:16,757 - root - INFO - ******Login Passed********
+2022-11-15 14:52:16,757 - root - INFO - ******Login Passed********
+2022-11-15 14:52:22,133 - root - INFO - ******Login Passed********
+2022-11-15 14:52:22,133 - root - INFO - ******Login Passed********
+2022-11-15 14:52:22,133 - root - INFO - ******Login Passed********
+2022-11-15 14:52:22,133 - root - INFO - ******Login Passed********
+2022-11-15 14:52:27,469 - root - INFO - ******Login Passed********
+2022-11-15 14:52:27,469 - root - INFO - ******Login Passed********
+2022-11-15 14:52:27,469 - root - INFO - ******Login Passed********
+2022-11-15 14:52:27,469 - root - INFO - ******Login Passed********
+2022-11-15 14:52:27,469 - root - INFO - Login DDT test Passed...................
+2022-11-15 14:52:27,469 - root - INFO - Login DDT test Passed...................
+2022-11-15 14:52:27,469 - root - INFO - Login DDT test Passed...................
+2022-11-15 14:52:27,469 - root - INFO - Login DDT test Passed...................
+2022-11-15 14:52:43,682 - root - INFO - ****DDT is finished***********
+2022-11-15 14:52:43,682 - root - INFO - ****DDT is finished***********
+2022-11-15 14:52:43,682 - root - INFO - ****DDT is finished***********
+2022-11-15 14:52:43,682 - root - INFO - ****DDT is finished***********
+2022-11-15 14:52:43,682 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:52:43,682 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:52:43,682 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:52:43,682 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:52:44,066 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:52:44,066 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:52:44,066 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:52:44,066 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:52:44,522 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:52:44,522 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:52:44,522 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:52:44,522 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:52:45,706 - root - INFO - *********** Starting Test_004 Search Customer by Email*******
+2022-11-15 14:52:45,706 - root - INFO - *********** Starting Test_004 Search Customer by Email*******
+2022-11-15 14:52:45,706 - root - INFO - *********** Starting Test_004 Search Customer by Email*******
+2022-11-15 14:52:45,706 - root - INFO - *********** Starting Test_004 Search Customer by Email*******
+2022-11-15 14:52:48,908 - root - INFO - *************Login Passed ***************
+2022-11-15 14:52:48,908 - root - INFO - *************Login Passed ***************
+2022-11-15 14:52:48,908 - root - INFO - *************Login Passed ***************
+2022-11-15 14:52:48,908 - root - INFO - *************Login Passed ***************
+2022-11-15 14:52:48,908 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-15 14:52:48,908 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-15 14:52:48,908 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-15 14:52:48,908 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-15 14:52:51,830 - root - INFO - ********* Searching customer by Email *********
+2022-11-15 14:52:51,830 - root - INFO - ********* Searching customer by Email *********
+2022-11-15 14:52:51,830 - root - INFO - ********* Searching customer by Email *********
+2022-11-15 14:52:51,830 - root - INFO - ********* Searching customer by Email *********
+2022-11-15 14:52:59,035 - root - INFO - *********** Test Search customer by Email Passed *************
+2022-11-15 14:52:59,035 - root - INFO - *********** Test Search customer by Email Passed *************
+2022-11-15 14:52:59,035 - root - INFO - *********** Test Search customer by Email Passed *************
+2022-11-15 14:52:59,035 - root - INFO - *********** Test Search customer by Email Passed *************
+2022-11-15 14:52:59,219 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:52:59,219 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:52:59,219 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:52:59,219 - WDM - INFO - ====== WebDriver manager ======
+2022-11-15 14:52:59,907 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:52:59,907 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:52:59,907 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:52:59,907 - WDM - INFO - Get LATEST chromedriver version for google-chrome 107.0.5304
+2022-11-15 14:53:00,563 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:53:00,563 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:53:00,563 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:53:00,563 - WDM - INFO - Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+2022-11-15 14:53:01,784 - root - INFO - *********** Starting Test_004 Search Customer ny Name*******
+2022-11-15 14:53:01,784 - root - INFO - *********** Starting Test_004 Search Customer ny Name*******
+2022-11-15 14:53:01,784 - root - INFO - *********** Starting Test_004 Search Customer ny Name*******
+2022-11-15 14:53:01,784 - root - INFO - *********** Starting Test_004 Search Customer ny Name*******
+2022-11-15 14:53:04,845 - root - INFO - *************Login Passed ***************
+2022-11-15 14:53:04,845 - root - INFO - *************Login Passed ***************
+2022-11-15 14:53:04,845 - root - INFO - *************Login Passed ***************
+2022-11-15 14:53:04,845 - root - INFO - *************Login Passed ***************
+2022-11-15 14:53:04,845 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-15 14:53:04,845 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-15 14:53:04,845 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-15 14:53:04,845 - root - INFO - ******** clicking on customers menu and submenu ********
+2022-11-15 14:53:08,207 - root - INFO - ********* Searching customer by Name *********
+2022-11-15 14:53:08,207 - root - INFO - ********* Searching customer by Name *********
+2022-11-15 14:53:08,207 - root - INFO - ********* Searching customer by Name *********
+2022-11-15 14:53:08,207 - root - INFO - ********* Searching customer by Name *********
+2022-11-15 14:53:15,762 - root - ERROR - ##### Test Search customer by Name Failed ############
+2022-11-15 14:53:15,762 - root - ERROR - ##### Test Search customer by Name Failed ############
+2022-11-15 14:53:15,762 - root - ERROR - ##### Test Search customer by Name Failed ############
+2022-11-15 14:53:15,762 - root - ERROR - ##### Test Search customer by Name Failed ############

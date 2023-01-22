@@ -1,0 +1,8 @@
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome 107.0.5304
+[32mINFO    [0m WDM:logger.py:11 Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+[32mINFO    [0m root:test_searchcustomer.py:64 *********** Starting Test_004 Search Customer ny Name*******
+[32mINFO    [0m root:test_searchcustomer.py:72 *************Login Passed ***************
+[32mINFO    [0m root:test_searchcustomer.py:79 ******** clicking on customers menu and submenu ********
+[32mINFO    [0m root:test_searchcustomer.py:82 ********* Searching customer by Name *********
+[1m[31mERROR   [0m root:test_searchcustomer.py:96 ##### Test Search customer by Name Failed ############

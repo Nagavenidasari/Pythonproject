@@ -1,0 +1,6 @@
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome 107.0.5304
+[32mINFO    [0m WDM:logger.py:11 Driver [C:\Users\nagav\.wdm\drivers\chromedriver\win32\107.0.5304\chromedriver.exe] found in cache
+[32mINFO    [0m root:test_login.py:43 **********Test_001_Login************
+[32mINFO    [0m root:test_login.py:44 ***************Login test**************
+[32mINFO    [0m root:test_login.py:54 *************Login Passed ***************
